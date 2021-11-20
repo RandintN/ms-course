@@ -8,7 +8,6 @@ import software.robsoncassiano.learn.hrworker.entities.Worker;
 import software.robsoncassiano.learn.hrworker.repositories.WorkerRepository;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 public class WorkerController {
@@ -24,7 +23,11 @@ public class WorkerController {
     }
 
     @GetMapping(path = "/workers/{id}")
-    public ResponseEntity<Worker> getWorkerById(@PathVariable(name = "id") Long id) {
-        return ResponseEntity.ok(workerRepository.findById(id).get());
+    public ResponseEntity<Worker> getWorkerById(@PathVariable(name = "id") Long id) throws Exception {
+        if (workerRepository.findById(id).isPresent()) {
+            return ResponseEntity.ok(workerRepository.findById(id).get());
+        } else {
+            throw new Exception(String.format("The worker with Id %s wasn't found", id));
+        }
     }
 }
