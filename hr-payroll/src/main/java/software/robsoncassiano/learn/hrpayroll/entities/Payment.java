@@ -1,14 +1,8 @@
 package software.robsoncassiano.learn.hrpayroll.entities;
 
-
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import lombok.EqualsAndHashCode;
-
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-@EqualsAndHashCode
-@JsonIgnoreProperties(ignoreUnknown = true)
 public class Payment {
 
     private String name;

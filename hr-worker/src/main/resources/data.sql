@@ -1,2000 +1,2000 @@
 insert into tb_worker (name, daily_income)
-values (1, '66.08');
+values ('Bucorvus leadbeateri', '895.33');
 insert into tb_worker (name, daily_income)
-values (2, '42.72');
+values ('Cracticus nigroagularis', '906.42');
 insert into tb_worker (name, daily_income)
-values (3, '71.11');
+values ('Macropus agilis', '189.53');
 insert into tb_worker (name, daily_income)
-values (4, '83.44');
+values ('Equus hemionus', '83.41');
 insert into tb_worker (name, daily_income)
-values (5, '8.76');
+values ('Boa caninus', '763.97');
 insert into tb_worker (name, daily_income)
-values (6, '65.48');
+values ('Ninox superciliaris', '443.60');
 insert into tb_worker (name, daily_income)
-values (7, '20.79');
+values ('Paraxerus cepapi', '781.79');
 insert into tb_worker (name, daily_income)
-values (8, '89.46');
+values ('Corvus albicollis', '3.86');
 insert into tb_worker (name, daily_income)
-values (9, '32.07');
+values ('Fratercula corniculata', '90.58');
 insert into tb_worker (name, daily_income)
-values (10, '89.53');
+values ('Spheniscus mendiculus', '704.32');
 insert into tb_worker (name, daily_income)
-values (11, '14.79');
+values ('Bettongia penicillata', '336.43');
 insert into tb_worker (name, daily_income)
-values (12, '53.49');
+values ('unavailable', '194.55');
 insert into tb_worker (name, daily_income)
-values (13, '10.47');
+values ('Chordeiles minor', '394.56');
 insert into tb_worker (name, daily_income)
-values (14, '0.04');
+values ('Globicephala melas', '603.84');
 insert into tb_worker (name, daily_income)
-values (15, '37.20');
+values ('Varanus sp.', '283.32');
 insert into tb_worker (name, daily_income)
-values (16, '14.88');
+values ('Gyps bengalensis', '928.21');
 insert into tb_worker (name, daily_income)
-values (17, '47.00');
+values ('Sula dactylatra', '689.96');
 insert into tb_worker (name, daily_income)
-values (18, '0.58');
+values ('Porphyrio porphyrio', '256.98');
 insert into tb_worker (name, daily_income)
-values (19, '98.74');
+values ('Cervus unicolor', '347.32');
 insert into tb_worker (name, daily_income)
-values (20, '14.41');
+values ('Eumetopias jubatus', '588.23');
 insert into tb_worker (name, daily_income)
-values (21, '58.70');
+values ('Plocepasser mahali', '676.68');
 insert into tb_worker (name, daily_income)
-values (22, '89.87');
+values ('Anas bahamensis', '8.00');
 insert into tb_worker (name, daily_income)
-values (23, '11.86');
+values ('Trichechus inunguis', '995.76');
 insert into tb_worker (name, daily_income)
-values (24, '3.03');
+values ('Pycnonotus nigricans', '229.72');
 insert into tb_worker (name, daily_income)
-values (25, '89.19');
+values ('Colobus guerza', '92.90');
 insert into tb_worker (name, daily_income)
-values (26, '83.38');
+values ('Lamprotornis superbus', '487.22');
 insert into tb_worker (name, daily_income)
-values (27, '3.36');
+values ('Philetairus socius', '851.49');
 insert into tb_worker (name, daily_income)
-values (28, '33.41');
+values ('Paroaria gularis', '558.68');
 insert into tb_worker (name, daily_income)
-values (29, '18.33');
+values ('Ciconia episcopus', '2.24');
 insert into tb_worker (name, daily_income)
-values (30, '71.40');
+values ('Eutamias minimus', '522.74');
 insert into tb_worker (name, daily_income)
-values (31, '12.39');
+values ('Spizaetus coronatus', '559.52');
 insert into tb_worker (name, daily_income)
-values (32, '68.51');
+values ('Merops sp.', '486.62');
 insert into tb_worker (name, daily_income)
-values (33, '53.25');
+values ('Paradoxurus hermaphroditus', '904.08');
 insert into tb_worker (name, daily_income)
-values (34, '55.52');
+values ('Phoca vitulina', '794.32');
 insert into tb_worker (name, daily_income)
-values (35, '81.98');
+values ('Centrocercus urophasianus', '598.61');
 insert into tb_worker (name, daily_income)
-values (36, '72.29');
+values ('Tadorna tadorna', '178.85');
 insert into tb_worker (name, daily_income)
-values (37, '83.93');
+values ('Grus antigone', '820.46');
 insert into tb_worker (name, daily_income)
-values (38, '44.35');
+values ('Canis aureus', '656.17');
 insert into tb_worker (name, daily_income)
-values (39, '59.95');
+values ('Gazella granti', '89.41');
 insert into tb_worker (name, daily_income)
-values (40, '79.85');
+values ('Thamnolaea cinnmomeiventris', '401.40');
 insert into tb_worker (name, daily_income)
-values (41, '63.65');
+values ('Corvus albicollis', '664.51');
 insert into tb_worker (name, daily_income)
-values (42, '8.57');
+values ('Phalacrocorax niger', '818.71');
 insert into tb_worker (name, daily_income)
-values (43, '73.05');
+values ('Acrantophis madagascariensis', '266.20');
 insert into tb_worker (name, daily_income)
-values (44, '5.07');
+values ('Conolophus subcristatus', '948.37');
 insert into tb_worker (name, daily_income)
-values (45, '30.45');
+values ('Potamochoerus porcus', '415.53');
 insert into tb_worker (name, daily_income)
-values (46, '92.85');
+values ('Haliaetus vocifer', '906.93');
 insert into tb_worker (name, daily_income)
-values (47, '32.64');
+values ('Picoides pubescens', '644.89');
 insert into tb_worker (name, daily_income)
-values (48, '20.28');
+values ('Pycnonotus barbatus', '661.03');
 insert into tb_worker (name, daily_income)
-values (49, '77.06');
+values ('Odocoileus hemionus', '188.71');
 insert into tb_worker (name, daily_income)
-values (50, '21.75');
+values ('Zenaida galapagoensis', '15.75');
 insert into tb_worker (name, daily_income)
-values (51, '82.08');
+values ('Colobus guerza', '996.32');
 insert into tb_worker (name, daily_income)
-values (52, '4.02');
+values ('Butorides striatus', '112.73');
 insert into tb_worker (name, daily_income)
-values (53, '71.48');
+values ('Meleagris gallopavo', '820.72');
 insert into tb_worker (name, daily_income)
-values (54, '58.78');
+values ('Larus sp.', '983.42');
 insert into tb_worker (name, daily_income)
-values (55, '30.95');
+values ('Spermophilus richardsonii', '586.39');
 insert into tb_worker (name, daily_income)
-values (56, '8.38');
+values ('Anhinga rufa', '913.71');
 insert into tb_worker (name, daily_income)
-values (57, '92.80');
+values ('Ramphastos tucanus', '514.26');
 insert into tb_worker (name, daily_income)
-values (58, '75.25');
+values ('Nasua narica', '656.97');
 insert into tb_worker (name, daily_income)
-values (59, '35.61');
+values ('Herpestes javanicus', '814.60');
 insert into tb_worker (name, daily_income)
-values (60, '35.25');
+values ('Oryx gazella callotis', '465.23');
 insert into tb_worker (name, daily_income)
-values (61, '22.11');
+values ('Martes pennanti', '222.52');
 insert into tb_worker (name, daily_income)
-values (62, '14.76');
+values ('Zenaida galapagoensis', '604.12');
 insert into tb_worker (name, daily_income)
-values (63, '4.65');
+values ('Eunectes sp.', '324.08');
 insert into tb_worker (name, daily_income)
-values (64, '27.35');
+values ('Laniarius ferrugineus', '566.23');
 insert into tb_worker (name, daily_income)
-values (65, '71.50');
+values ('Ctenophorus ornatus', '243.33');
 insert into tb_worker (name, daily_income)
-values (66, '40.40');
+values ('Tringa glareola', '809.30');
 insert into tb_worker (name, daily_income)
-values (67, '93.96');
+values ('Cordylus giganteus', '186.58');
 insert into tb_worker (name, daily_income)
-values (68, '54.16');
+values ('Turtur chalcospilos', '687.62');
 insert into tb_worker (name, daily_income)
-values (69, '94.54');
+values ('Chordeiles minor', '333.12');
 insert into tb_worker (name, daily_income)
-values (70, '68.60');
+values ('Plocepasser mahali', '876.71');
 insert into tb_worker (name, daily_income)
-values (71, '50.25');
+values ('Pelecans onocratalus', '468.28');
 insert into tb_worker (name, daily_income)
-values (72, '38.41');
+values ('Paraxerus cepapi', '534.22');
 insert into tb_worker (name, daily_income)
-values (73, '73.74');
+values ('Gazella thompsonii', '639.81');
 insert into tb_worker (name, daily_income)
-values (74, '47.05');
+values ('Tadorna tadorna', '124.92');
 insert into tb_worker (name, daily_income)
-values (75, '35.95');
+values ('Caiman crocodilus', '904.10');
 insert into tb_worker (name, daily_income)
-values (76, '60.64');
+values ('Vulpes chama', '373.07');
 insert into tb_worker (name, daily_income)
-values (77, '90.43');
+values ('Macaca radiata', '205.64');
 insert into tb_worker (name, daily_income)
-values (78, '49.58');
+values ('Bassariscus astutus', '431.96');
 insert into tb_worker (name, daily_income)
-values (79, '21.16');
+values ('Myrmecophaga tridactyla', '662.41');
 insert into tb_worker (name, daily_income)
-values (80, '57.46');
+values ('Myiarchus tuberculifer', '603.78');
 insert into tb_worker (name, daily_income)
-values (81, '59.21');
+values ('Tamiasciurus hudsonicus', '704.59');
 insert into tb_worker (name, daily_income)
-values (82, '85.59');
+values ('Macaca nemestrina', '614.34');
 insert into tb_worker (name, daily_income)
-values (83, '5.36');
+values ('Otocyon megalotis', '802.81');
 insert into tb_worker (name, daily_income)
-values (84, '22.59');
+values ('Neotoma sp.', '199.91');
 insert into tb_worker (name, daily_income)
-values (85, '15.59');
+values ('Tyto novaehollandiae', '707.41');
 insert into tb_worker (name, daily_income)
-values (86, '77.84');
+values ('Eudromia elegans', '357.89');
 insert into tb_worker (name, daily_income)
-values (87, '79.76');
+values ('Larus dominicanus', '151.87');
 insert into tb_worker (name, daily_income)
-values (88, '6.93');
+values ('Crocodylus niloticus', '857.86');
 insert into tb_worker (name, daily_income)
-values (89, '35.06');
+values ('Aquila chrysaetos', '492.21');
 insert into tb_worker (name, daily_income)
-values (90, '78.05');
+values ('Sylvilagus floridanus', '858.47');
 insert into tb_worker (name, daily_income)
-values (91, '44.16');
+values ('unavailable', '367.45');
 insert into tb_worker (name, daily_income)
-values (92, '27.90');
+values ('Ovibos moschatus', '346.26');
 insert into tb_worker (name, daily_income)
-values (93, '54.06');
+values ('Neophron percnopterus', '774.36');
 insert into tb_worker (name, daily_income)
-values (94, '60.96');
+values ('Trichosurus vulpecula', '214.33');
 insert into tb_worker (name, daily_income)
-values (95, '80.15');
+values ('Aonyx cinerea', '533.20');
 insert into tb_worker (name, daily_income)
-values (96, '64.92');
+values ('Salvadora hexalepis', '342.23');
 insert into tb_worker (name, daily_income)
-values (97, '21.47');
+values ('Cacatua tenuirostris', '609.43');
 insert into tb_worker (name, daily_income)
-values (98, '60.99');
+values ('Columba palumbus', '175.17');
 insert into tb_worker (name, daily_income)
-values (99, '38.34');
+values ('Uraeginthus angolensis', '486.39');
 insert into tb_worker (name, daily_income)
-values (100, '5.26');
+values ('Anastomus oscitans', '575.98');
 insert into tb_worker (name, daily_income)
-values (101, '20.33');
+values ('Mellivora capensis', '928.24');
 insert into tb_worker (name, daily_income)
-values (102, '65.32');
+values ('Meles meles', '496.87');
 insert into tb_worker (name, daily_income)
-values (103, '2.66');
+values ('Ciconia episcopus', '929.50');
 insert into tb_worker (name, daily_income)
-values (104, '24.49');
+values ('Cynictis penicillata', '671.49');
 insert into tb_worker (name, daily_income)
-values (105, '77.15');
+values ('Ara chloroptera', '998.32');
 insert into tb_worker (name, daily_income)
-values (106, '62.85');
+values ('Lasiodora parahybana', '219.01');
 insert into tb_worker (name, daily_income)
-values (107, '63.97');
+values ('Dacelo novaeguineae', '205.81');
 insert into tb_worker (name, daily_income)
-values (108, '24.08');
+values ('Antidorcas marsupialis', '927.49');
 insert into tb_worker (name, daily_income)
-values (109, '48.46');
+values ('Meleagris gallopavo', '600.95');
 insert into tb_worker (name, daily_income)
-values (110, '63.66');
+values ('Corythornis cristata', '858.39');
 insert into tb_worker (name, daily_income)
-values (111, '28.82');
+values ('Vulpes vulpes', '889.75');
 insert into tb_worker (name, daily_income)
-values (112, '92.51');
+values ('Pavo cristatus', '496.21');
 insert into tb_worker (name, daily_income)
-values (113, '1.02');
+values ('Hymenolaimus malacorhynchus', '983.76');
 insert into tb_worker (name, daily_income)
-values (114, '81.73');
+values ('Tamiasciurus hudsonicus', '518.47');
 insert into tb_worker (name, daily_income)
-values (115, '94.19');
+values ('Francolinus leucoscepus', '235.32');
 insert into tb_worker (name, daily_income)
-values (116, '17.07');
+values ('Cygnus atratus', '676.22');
 insert into tb_worker (name, daily_income)
-values (117, '93.03');
+values ('Kobus defassa', '263.59');
 insert into tb_worker (name, daily_income)
-values (118, '50.59');
+values ('Zalophus californicus', '943.50');
 insert into tb_worker (name, daily_income)
-values (119, '3.31');
+values ('Agouti paca', '216.64');
 insert into tb_worker (name, daily_income)
-values (120, '38.39');
+values ('Colaptes campestroides', '771.76');
 insert into tb_worker (name, daily_income)
-values (121, '49.04');
+values ('Crotalus triseriatus', '454.93');
 insert into tb_worker (name, daily_income)
-values (122, '99.70');
+values ('Charadrius tricollaris', '487.95');
 insert into tb_worker (name, daily_income)
-values (123, '99.26');
+values ('Antidorcas marsupialis', '963.08');
 insert into tb_worker (name, daily_income)
-values (124, '95.01');
+values ('Naja haje', '348.18');
 insert into tb_worker (name, daily_income)
-values (125, '28.40');
+values ('Acrobates pygmaeus', '945.51');
 insert into tb_worker (name, daily_income)
-values (126, '45.52');
+values ('Alectura lathami', '292.28');
 insert into tb_worker (name, daily_income)
-values (127, '97.41');
+values ('Nasua narica', '152.04');
 insert into tb_worker (name, daily_income)
-values (128, '77.02');
+values ('Grus antigone', '668.04');
 insert into tb_worker (name, daily_income)
-values (129, '62.50');
+values ('Toxostoma curvirostre', '163.60');
 insert into tb_worker (name, daily_income)
-values (130, '2.30');
+values ('Acridotheres tristis', '279.53');
 insert into tb_worker (name, daily_income)
-values (131, '33.14');
+values ('Mazama gouazoubira', '686.50');
 insert into tb_worker (name, daily_income)
-values (132, '26.92');
+values ('Lepus townsendii', '267.38');
 insert into tb_worker (name, daily_income)
-values (133, '9.72');
+values ('Callorhinus ursinus', '562.82');
 insert into tb_worker (name, daily_income)
-values (134, '38.26');
+values ('Callorhinus ursinus', '545.42');
 insert into tb_worker (name, daily_income)
-values (135, '4.05');
+values ('Graspus graspus', '812.08');
 insert into tb_worker (name, daily_income)
-values (136, '5.54');
+values ('Semnopithecus entellus', '808.22');
 insert into tb_worker (name, daily_income)
-values (137, '52.36');
+values ('Eira barbata', '20.18');
 insert into tb_worker (name, daily_income)
-values (138, '17.37');
+values ('Leipoa ocellata', '370.87');
 insert into tb_worker (name, daily_income)
-values (139, '11.40');
+values ('Morelia spilotes variegata', '679.35');
 insert into tb_worker (name, daily_income)
-values (140, '33.34');
+values ('Lamprotornis nitens', '611.81');
 insert into tb_worker (name, daily_income)
-values (141, '32.77');
+values ('Ramphastos tucanus', '129.44');
 insert into tb_worker (name, daily_income)
-values (142, '84.25');
+values ('Dasypus septemcincus', '585.32');
 insert into tb_worker (name, daily_income)
-values (143, '74.47');
+values ('Chamaelo sp.', '949.28');
 insert into tb_worker (name, daily_income)
-values (144, '66.52');
+values ('Bubalus arnee', '760.43');
 insert into tb_worker (name, daily_income)
-values (145, '99.99');
+values ('Cochlearius cochlearius', '973.91');
 insert into tb_worker (name, daily_income)
-values (146, '61.37');
+values ('Balearica pavonina', '626.60');
 insert into tb_worker (name, daily_income)
-values (147, '44.20');
+values ('Hystrix cristata', '5.36');
 insert into tb_worker (name, daily_income)
-values (148, '94.73');
+values ('Leptoptilus dubius', '371.92');
 insert into tb_worker (name, daily_income)
-values (149, '18.33');
+values ('Canis lupus lycaon', '239.19');
 insert into tb_worker (name, daily_income)
-values (150, '12.86');
+values ('Nyctanassa violacea', '632.61');
 insert into tb_worker (name, daily_income)
-values (151, '44.20');
+values ('Eunectes sp.', '103.94');
 insert into tb_worker (name, daily_income)
-values (152, '56.81');
+values ('Coluber constrictor', '325.64');
 insert into tb_worker (name, daily_income)
-values (153, '74.77');
+values ('Lorythaixoides concolor', '79.25');
 insert into tb_worker (name, daily_income)
-values (154, '73.14');
+values ('Sceloporus magister', '324.40');
 insert into tb_worker (name, daily_income)
-values (155, '60.14');
+values ('Macropus giganteus', '327.41');
 insert into tb_worker (name, daily_income)
-values (156, '95.97');
+values ('Anas bahamensis', '364.66');
 insert into tb_worker (name, daily_income)
-values (157, '74.62');
+values ('Ictalurus furcatus', '963.02');
 insert into tb_worker (name, daily_income)
-values (158, '6.08');
+values ('Falco peregrinus', '982.49');
 insert into tb_worker (name, daily_income)
-values (159, '5.89');
+values ('Isoodon obesulus', '763.01');
 insert into tb_worker (name, daily_income)
-values (160, '12.92');
+values ('Butorides striatus', '228.57');
 insert into tb_worker (name, daily_income)
-values (161, '43.02');
+values ('Agkistrodon piscivorus', '175.11');
 insert into tb_worker (name, daily_income)
-values (162, '69.24');
+values ('Butorides striatus', '322.16');
 insert into tb_worker (name, daily_income)
-values (163, '48.57');
+values ('Morelia spilotes variegata', '183.31');
 insert into tb_worker (name, daily_income)
-values (164, '99.53');
+values ('Picoides pubescens', '111.44');
 insert into tb_worker (name, daily_income)
-values (165, '63.67');
+values ('Buteo galapagoensis', '645.54');
 insert into tb_worker (name, daily_income)
-values (166, '58.59');
+values ('Alouatta seniculus', '405.51');
 insert into tb_worker (name, daily_income)
-values (167, '75.35');
+values ('Neotis denhami', '750.86');
 insert into tb_worker (name, daily_income)
-values (168, '4.66');
+values ('Nycticorax nycticorax', '977.09');
 insert into tb_worker (name, daily_income)
-values (169, '13.75');
+values ('Estrilda erythronotos', '969.68');
 insert into tb_worker (name, daily_income)
-values (170, '58.38');
+values ('Pseudalopex gymnocercus', '169.85');
 insert into tb_worker (name, daily_income)
-values (171, '29.72');
+values ('Myrmecobius fasciatus', '356.99');
 insert into tb_worker (name, daily_income)
-values (172, '40.26');
+values ('Hyaena brunnea', '777.25');
 insert into tb_worker (name, daily_income)
-values (173, '27.35');
+values ('Choriotis kori', '128.69');
 insert into tb_worker (name, daily_income)
-values (174, '82.79');
+values ('Odocoileus hemionus', '246.62');
 insert into tb_worker (name, daily_income)
-values (175, '73.50');
+values ('Coendou prehensilis', '625.73');
 insert into tb_worker (name, daily_income)
-values (176, '52.85');
+values ('Ephipplorhynchus senegalensis', '509.66');
 insert into tb_worker (name, daily_income)
-values (177, '44.36');
+values ('Grus canadensis', '410.66');
 insert into tb_worker (name, daily_income)
-values (178, '45.90');
+values ('Bucephala clangula', '212.45');
 insert into tb_worker (name, daily_income)
-values (179, '6.70');
+values ('Microcebus murinus', '519.20');
 insert into tb_worker (name, daily_income)
-values (180, '48.93');
+values ('Chionis alba', '960.59');
 insert into tb_worker (name, daily_income)
-values (181, '19.67');
+values ('Lamprotornis superbus', '212.55');
 insert into tb_worker (name, daily_income)
-values (182, '95.71');
+values ('Tachyglossus aculeatus', '577.12');
 insert into tb_worker (name, daily_income)
-values (183, '85.74');
+values ('Neotoma sp.', '186.94');
 insert into tb_worker (name, daily_income)
-values (184, '71.35');
+values ('Spheniscus mendiculus', '995.15');
 insert into tb_worker (name, daily_income)
-values (185, '12.59');
+values ('Actophilornis africanus', '782.70');
 insert into tb_worker (name, daily_income)
-values (186, '54.94');
+values ('Theropithecus gelada', '455.49');
 insert into tb_worker (name, daily_income)
-values (187, '18.65');
+values ('Macropus rufus', '498.19');
 insert into tb_worker (name, daily_income)
-values (188, '81.12');
+values ('Tauraco porphyrelophus', '246.21');
 insert into tb_worker (name, daily_income)
-values (189, '99.56');
+values ('Mirounga leonina', '462.55');
 insert into tb_worker (name, daily_income)
-values (190, '26.22');
+values ('Zosterops pallidus', '637.10');
 insert into tb_worker (name, daily_income)
-values (191, '57.40');
+values ('Physignathus cocincinus', '630.51');
 insert into tb_worker (name, daily_income)
-values (192, '79.95');
+values ('Dusicyon thous', '447.64');
 insert into tb_worker (name, daily_income)
-values (193, '44.98');
+values ('Mazama gouazoubira', '793.96');
 insert into tb_worker (name, daily_income)
-values (194, '15.58');
+values ('Phalacrocorax carbo', '268.83');
 insert into tb_worker (name, daily_income)
-values (195, '39.26');
+values ('Anastomus oscitans', '593.96');
 insert into tb_worker (name, daily_income)
-values (196, '7.70');
+values ('Pavo cristatus', '154.48');
 insert into tb_worker (name, daily_income)
-values (197, '12.08');
+values ('Vulpes chama', '80.98');
 insert into tb_worker (name, daily_income)
-values (198, '88.68');
+values ('Coracias caudata', '460.53');
 insert into tb_worker (name, daily_income)
-values (199, '39.96');
+values ('Aonyx cinerea', '859.47');
 insert into tb_worker (name, daily_income)
-values (200, '72.14');
+values ('Bos taurus', '639.16');
 insert into tb_worker (name, daily_income)
-values (201, '56.97');
+values ('Butorides striatus', '533.85');
 insert into tb_worker (name, daily_income)
-values (202, '95.46');
+values ('Microcavia australis', '816.81');
 insert into tb_worker (name, daily_income)
-values (203, '32.27');
+values ('Chlidonias leucopterus', '478.84');
 insert into tb_worker (name, daily_income)
-values (204, '36.93');
+values ('Charadrius tricollaris', '378.82');
 insert into tb_worker (name, daily_income)
-values (205, '14.63');
+values ('Phoenicopterus ruber', '710.13');
 insert into tb_worker (name, daily_income)
-values (206, '7.85');
+values ('Bucephala clangula', '769.37');
 insert into tb_worker (name, daily_income)
-values (207, '34.00');
+values ('Manouria emys', '258.02');
 insert into tb_worker (name, daily_income)
-values (208, '31.08');
+values ('Acinynox jubatus', '598.21');
 insert into tb_worker (name, daily_income)
-values (209, '35.48');
+values ('Panthera tigris', '456.60');
 insert into tb_worker (name, daily_income)
-values (210, '67.76');
+values ('Felis caracal', '9.95');
 insert into tb_worker (name, daily_income)
-values (211, '61.97');
+values ('Phoca vitulina', '330.27');
 insert into tb_worker (name, daily_income)
-values (212, '88.15');
+values ('Ursus arctos', '55.05');
 insert into tb_worker (name, daily_income)
-values (213, '19.96');
+values ('Cercatetus concinnus', '185.33');
 insert into tb_worker (name, daily_income)
-values (214, '44.11');
+values ('Ctenophorus ornatus', '259.48');
 insert into tb_worker (name, daily_income)
-values (215, '47.81');
+values ('Hystrix cristata', '64.76');
 insert into tb_worker (name, daily_income)
-values (216, '20.63');
+values ('Nannopterum harrisi', '625.88');
 insert into tb_worker (name, daily_income)
-values (217, '52.72');
+values ('Cacatua galerita', '197.33');
 insert into tb_worker (name, daily_income)
-values (218, '32.35');
+values ('Castor fiber', '181.10');
 insert into tb_worker (name, daily_income)
-values (219, '48.14');
+values ('Mirounga angustirostris', '95.22');
 insert into tb_worker (name, daily_income)
-values (220, '5.33');
+values ('Larus dominicanus', '945.83');
 insert into tb_worker (name, daily_income)
-values (221, '79.81');
+values ('Alces alces', '500.42');
 insert into tb_worker (name, daily_income)
-values (222, '39.57');
+values ('Chelodina longicollis', '556.06');
 insert into tb_worker (name, daily_income)
-values (223, '4.35');
+values ('Macropus fuliginosus', '272.58');
 insert into tb_worker (name, daily_income)
-values (224, '96.28');
+values ('Bettongia penicillata', '606.21');
 insert into tb_worker (name, daily_income)
-values (225, '90.82');
+values ('Castor fiber', '531.41');
 insert into tb_worker (name, daily_income)
-values (226, '36.45');
+values ('Geochelone radiata', '57.92');
 insert into tb_worker (name, daily_income)
-values (227, '69.08');
+values ('Taurotagus oryx', '601.80');
 insert into tb_worker (name, daily_income)
-values (228, '42.21');
+values ('Aegypius tracheliotus', '519.49');
 insert into tb_worker (name, daily_income)
-values (229, '18.51');
+values ('Carduelis pinus', '158.33');
 insert into tb_worker (name, daily_income)
-values (230, '9.47');
+values ('Alcelaphus buselaphus caama', '652.80');
 insert into tb_worker (name, daily_income)
-values (231, '22.81');
+values ('Francolinus coqui', '999.22');
 insert into tb_worker (name, daily_income)
-values (232, '91.16');
+values ('Eudromia elegans', '654.91');
 insert into tb_worker (name, daily_income)
-values (233, '20.04');
+values ('Pelecanus occidentalis', '687.72');
 insert into tb_worker (name, daily_income)
-values (234, '10.18');
+values ('Notechis semmiannulatus', '378.30');
 insert into tb_worker (name, daily_income)
-values (235, '46.27');
+values ('Plectopterus gambensis', '73.62');
 insert into tb_worker (name, daily_income)
-values (236, '58.46');
+values ('Spilogale gracilis', '667.12');
 insert into tb_worker (name, daily_income)
-values (237, '20.14');
+values ('Genetta genetta', '548.05');
 insert into tb_worker (name, daily_income)
-values (238, '71.30');
+values ('Theropithecus gelada', '928.53');
 insert into tb_worker (name, daily_income)
-values (239, '60.49');
+values ('Psittacula krameri', '583.13');
 insert into tb_worker (name, daily_income)
-values (240, '50.22');
+values ('Phalacrocorax varius', '301.38');
 insert into tb_worker (name, daily_income)
-values (241, '89.04');
+values ('Ictonyx striatus', '448.05');
 insert into tb_worker (name, daily_income)
-values (242, '92.31');
+values ('Tyto novaehollandiae', '34.45');
 insert into tb_worker (name, daily_income)
-values (243, '90.53');
+values ('Chordeiles minor', '625.30');
 insert into tb_worker (name, daily_income)
-values (244, '95.82');
+values ('Nectarinia chalybea', '525.83');
 insert into tb_worker (name, daily_income)
-values (245, '50.26');
+values ('Globicephala melas', '163.68');
 insert into tb_worker (name, daily_income)
-values (246, '46.05');
+values ('Nasua nasua', '753.37');
 insert into tb_worker (name, daily_income)
-values (247, '48.92');
+values ('Lama guanicoe', '894.16');
 insert into tb_worker (name, daily_income)
-values (248, '6.67');
+values ('Bubulcus ibis', '55.04');
 insert into tb_worker (name, daily_income)
-values (249, '53.17');
+values ('Marmota monax', '179.10');
 insert into tb_worker (name, daily_income)
-values (250, '90.53');
+values ('Alcelaphus buselaphus caama', '336.94');
 insert into tb_worker (name, daily_income)
-values (251, '26.38');
+values ('Macropus robustus', '389.60');
 insert into tb_worker (name, daily_income)
-values (252, '68.61');
+values ('Tachybaptus ruficollis', '265.67');
 insert into tb_worker (name, daily_income)
-values (253, '96.20');
+values ('Merops nubicus', '894.33');
 insert into tb_worker (name, daily_income)
-values (254, '26.84');
+values ('Pitangus sulphuratus', '916.19');
 insert into tb_worker (name, daily_income)
-values (255, '5.80');
+values ('Anhinga rufa', '22.94');
 insert into tb_worker (name, daily_income)
-values (256, '7.06');
+values ('Macaca mulatta', '696.75');
 insert into tb_worker (name, daily_income)
-values (257, '7.23');
+values ('Macropus fuliginosus', '983.35');
 insert into tb_worker (name, daily_income)
-values (258, '15.83');
+values ('Giraffe camelopardalis', '121.46');
 insert into tb_worker (name, daily_income)
-values (259, '3.11');
+values ('Merops nubicus', '667.36');
 insert into tb_worker (name, daily_income)
-values (260, '54.39');
+values ('Morelia spilotes variegata', '188.14');
 insert into tb_worker (name, daily_income)
-values (261, '82.45');
+values ('Vulpes vulpes', '36.03');
 insert into tb_worker (name, daily_income)
-values (262, '73.36');
+values ('Vulpes chama', '386.78');
 insert into tb_worker (name, daily_income)
-values (263, '71.41');
+values ('Chlamydosaurus kingii', '118.09');
 insert into tb_worker (name, daily_income)
-values (264, '0.66');
+values ('Crotaphytus collaris', '896.08');
 insert into tb_worker (name, daily_income)
-values (265, '18.38');
+values ('Pycnonotus nigricans', '180.49');
 insert into tb_worker (name, daily_income)
-values (266, '97.15');
+values ('Callorhinus ursinus', '314.35');
 insert into tb_worker (name, daily_income)
-values (267, '91.38');
+values ('Agama sp.', '359.92');
 insert into tb_worker (name, daily_income)
-values (268, '46.03');
+values ('Libellula quadrimaculata', '639.36');
 insert into tb_worker (name, daily_income)
-values (269, '60.50');
+values ('Mungos mungo', '644.27');
 insert into tb_worker (name, daily_income)
-values (270, '65.62');
+values ('Limosa haemastica', '420.78');
 insert into tb_worker (name, daily_income)
-values (271, '96.53');
+values ('Macropus agilis', '195.86');
 insert into tb_worker (name, daily_income)
-values (272, '78.12');
+values ('Mycteria leucocephala', '524.72');
 insert into tb_worker (name, daily_income)
-values (273, '71.38');
+values ('Arctogalidia trivirgata', '413.87');
 insert into tb_worker (name, daily_income)
-values (274, '58.14');
+values ('Numida meleagris', '366.84');
 insert into tb_worker (name, daily_income)
-values (275, '96.11');
+values ('Graspus graspus', '859.60');
 insert into tb_worker (name, daily_income)
-values (276, '30.75');
+values ('Genetta genetta', '173.80');
 insert into tb_worker (name, daily_income)
-values (277, '72.54');
+values ('Butorides striatus', '988.30');
 insert into tb_worker (name, daily_income)
-values (278, '42.80');
+values ('Nesomimus trifasciatus', '893.98');
 insert into tb_worker (name, daily_income)
-values (279, '0.29');
+values ('Spermophilus tridecemlineatus', '865.15');
 insert into tb_worker (name, daily_income)
-values (280, '65.23');
+values ('Dasypus novemcinctus', '525.95');
 insert into tb_worker (name, daily_income)
-values (281, '57.29');
+values ('Odocoilenaus virginianus', '223.82');
 insert into tb_worker (name, daily_income)
-values (282, '60.33');
+values ('Fulica cristata', '725.91');
 insert into tb_worker (name, daily_income)
-values (283, '99.83');
+values ('Dolichitus patagonum', '198.39');
 insert into tb_worker (name, daily_income)
-values (284, '4.42');
+values ('Tamiasciurus hudsonicus', '530.54');
 insert into tb_worker (name, daily_income)
-values (285, '94.77');
+values ('Anastomus oscitans', '611.30');
 insert into tb_worker (name, daily_income)
-values (286, '79.68');
+values ('Pituophis melanaleucus', '881.55');
 insert into tb_worker (name, daily_income)
-values (287, '24.66');
+values ('Nasua narica', '937.15');
 insert into tb_worker (name, daily_income)
-values (288, '76.88');
+values ('Vombatus ursinus', '821.75');
 insert into tb_worker (name, daily_income)
-values (289, '6.59');
+values ('Zonotrichia capensis', '509.10');
 insert into tb_worker (name, daily_income)
-values (290, '91.47');
+values ('Alopex lagopus', '918.37');
 insert into tb_worker (name, daily_income)
-values (291, '86.15');
+values ('Paradoxurus hermaphroditus', '537.27');
 insert into tb_worker (name, daily_income)
-values (292, '74.16');
+values ('Ramphastos tucanus', '740.86');
 insert into tb_worker (name, daily_income)
-values (293, '61.59');
+values ('Acridotheres tristis', '783.25');
 insert into tb_worker (name, daily_income)
-values (294, '36.43');
+values ('Papio cynocephalus', '689.15');
 insert into tb_worker (name, daily_income)
-values (295, '4.70');
+values ('Callipepla gambelii', '601.84');
 insert into tb_worker (name, daily_income)
-values (296, '33.95');
+values ('Phalacrocorax varius', '374.64');
 insert into tb_worker (name, daily_income)
-values (297, '5.93');
+values ('Dacelo novaeguineae', '593.83');
 insert into tb_worker (name, daily_income)
-values (298, '12.12');
+values ('Zonotrichia capensis', '485.26');
 insert into tb_worker (name, daily_income)
-values (299, '56.51');
+values ('Zenaida asiatica', '197.62');
 insert into tb_worker (name, daily_income)
-values (300, '93.90');
+values ('Myiarchus tuberculifer', '135.44');
 insert into tb_worker (name, daily_income)
-values (301, '40.59');
+values ('Panthera pardus', '670.75');
 insert into tb_worker (name, daily_income)
-values (302, '86.03');
+values ('Ovis musimon', '657.97');
 insert into tb_worker (name, daily_income)
-values (303, '26.23');
+values ('Diomedea irrorata', '686.43');
 insert into tb_worker (name, daily_income)
-values (304, '89.94');
+values ('Gazella thompsonii', '456.47');
 insert into tb_worker (name, daily_income)
-values (305, '6.09');
+values ('Picoides pubescens', '799.80');
 insert into tb_worker (name, daily_income)
-values (306, '36.23');
+values ('Lamprotornis nitens', '720.45');
 insert into tb_worker (name, daily_income)
-values (307, '74.67');
+values ('Bradypus tridactylus', '56.21');
 insert into tb_worker (name, daily_income)
-values (308, '49.24');
+values ('Tringa glareola', '432.03');
 insert into tb_worker (name, daily_income)
-values (309, '72.90');
+values ('Uraeginthus bengalus', '964.70');
 insert into tb_worker (name, daily_income)
-values (310, '56.62');
+values ('Diceros bicornis', '654.23');
 insert into tb_worker (name, daily_income)
-values (311, '41.75');
+values ('Anas bahamensis', '3.45');
 insert into tb_worker (name, daily_income)
-values (312, '95.56');
+values ('Crotalus adamanteus', '497.68');
 insert into tb_worker (name, daily_income)
-values (313, '98.61');
+values ('Lamprotornis sp.', '706.56');
 insert into tb_worker (name, daily_income)
-values (314, '0.56');
+values ('Rhea americana', '862.60');
 insert into tb_worker (name, daily_income)
-values (315, '86.62');
+values ('Diomedea irrorata', '275.50');
 insert into tb_worker (name, daily_income)
-values (316, '60.91');
+values ('Alectura lathami', '646.52');
 insert into tb_worker (name, daily_income)
-values (317, '0.74');
+values ('Anitibyx armatus', '542.94');
 insert into tb_worker (name, daily_income)
-values (318, '52.23');
+values ('Erinaceus frontalis', '701.60');
 insert into tb_worker (name, daily_income)
-values (319, '59.17');
+values ('Antilope cervicapra', '864.74');
 insert into tb_worker (name, daily_income)
-values (320, '13.62');
+values ('Propithecus verreauxi', '501.09');
 insert into tb_worker (name, daily_income)
-values (321, '22.57');
+values ('Manouria emys', '819.26');
 insert into tb_worker (name, daily_income)
-values (322, '10.33');
+values ('Sylvilagus floridanus', '659.02');
 insert into tb_worker (name, daily_income)
-values (323, '69.99');
+values ('Castor fiber', '356.36');
 insert into tb_worker (name, daily_income)
-values (324, '34.57');
+values ('Alopex lagopus', '743.08');
 insert into tb_worker (name, daily_income)
-values (325, '50.03');
+values ('Tadorna tadorna', '788.83');
 insert into tb_worker (name, daily_income)
-values (326, '76.90');
+values ('Morelia spilotes variegata', '60.06');
 insert into tb_worker (name, daily_income)
-values (327, '75.43');
+values ('Spermophilus parryii', '856.07');
 insert into tb_worker (name, daily_income)
-values (328, '6.91');
+values ('Bassariscus astutus', '280.42');
 insert into tb_worker (name, daily_income)
-values (329, '36.77');
+values ('Sarkidornis melanotos', '213.51');
 insert into tb_worker (name, daily_income)
-values (330, '22.23');
+values ('Vanellus chilensis', '517.12');
 insert into tb_worker (name, daily_income)
-values (331, '83.36');
+values ('Hystrix cristata', '763.54');
 insert into tb_worker (name, daily_income)
-values (332, '40.43');
+values ('Ctenophorus ornatus', '20.53');
 insert into tb_worker (name, daily_income)
-values (333, '80.86');
+values ('Chelodina longicollis', '440.54');
 insert into tb_worker (name, daily_income)
-values (334, '91.06');
+values ('Diceros bicornis', '740.43');
 insert into tb_worker (name, daily_income)
-values (335, '31.52');
+values ('Dicrostonyx groenlandicus', '272.84');
 insert into tb_worker (name, daily_income)
-values (336, '40.71');
+values ('Anser anser', '855.48');
 insert into tb_worker (name, daily_income)
-values (337, '72.92');
+values ('Anser anser', '366.97');
 insert into tb_worker (name, daily_income)
-values (338, '32.91');
+values ('Hymenolaimus malacorhynchus', '111.71');
 insert into tb_worker (name, daily_income)
-values (339, '22.84');
+values ('unavailable', '213.28');
 insert into tb_worker (name, daily_income)
-values (340, '96.91');
+values ('Lorythaixoides concolor', '652.93');
 insert into tb_worker (name, daily_income)
-values (341, '63.53');
+values ('Madoqua kirkii', '659.85');
 insert into tb_worker (name, daily_income)
-values (342, '69.40');
+values ('Phoeniconaias minor', '124.94');
 insert into tb_worker (name, daily_income)
-values (343, '55.31');
+values ('Antidorcas marsupialis', '896.87');
 insert into tb_worker (name, daily_income)
-values (344, '10.21');
+values ('Lemur catta', '755.86');
 insert into tb_worker (name, daily_income)
-values (345, '11.92');
+values ('Gyps bengalensis', '43.57');
 insert into tb_worker (name, daily_income)
-values (346, '5.91');
+values ('Crotaphytus collaris', '551.10');
 insert into tb_worker (name, daily_income)
-values (347, '15.81');
+values ('Coluber constrictor', '192.73');
 insert into tb_worker (name, daily_income)
-values (348, '26.14');
+values ('Coluber constrictor', '380.06');
 insert into tb_worker (name, daily_income)
-values (349, '2.19');
+values ('Merops nubicus', '928.63');
 insert into tb_worker (name, daily_income)
-values (350, '89.44');
+values ('Nesomimus trifasciatus', '879.90');
 insert into tb_worker (name, daily_income)
-values (351, '88.40');
+values ('Bubalus arnee', '63.21');
 insert into tb_worker (name, daily_income)
-values (352, '59.88');
+values ('Cynictis penicillata', '811.16');
 insert into tb_worker (name, daily_income)
-values (353, '46.32');
+values ('Nannopterum harrisi', '136.43');
 insert into tb_worker (name, daily_income)
-values (354, '87.48');
+values ('Ctenophorus ornatus', '775.72');
 insert into tb_worker (name, daily_income)
-values (355, '31.51');
+values ('Parus atricapillus', '286.47');
 insert into tb_worker (name, daily_income)
-values (356, '24.00');
+values ('Podargus strigoides', '88.24');
 insert into tb_worker (name, daily_income)
-values (357, '35.26');
+values ('Lepus townsendii', '547.20');
 insert into tb_worker (name, daily_income)
-values (358, '44.31');
+values ('Tockus flavirostris', '365.36');
 insert into tb_worker (name, daily_income)
-values (359, '2.10');
+values ('Junonia genoveua', '892.17');
 insert into tb_worker (name, daily_income)
-values (360, '13.98');
+values ('Lemur catta', '112.79');
 insert into tb_worker (name, daily_income)
-values (361, '66.70');
+values ('Damaliscus dorcas', '47.03');
 insert into tb_worker (name, daily_income)
-values (362, '70.36');
+values ('Mabuya spilogaster', '471.54');
 insert into tb_worker (name, daily_income)
-values (363, '0.23');
+values ('Larus fuliginosus', '201.54');
 insert into tb_worker (name, daily_income)
-values (364, '23.84');
+values ('Varanus salvator', '529.82');
 insert into tb_worker (name, daily_income)
-values (365, '46.17');
+values ('unavailable', '966.45');
 insert into tb_worker (name, daily_income)
-values (366, '24.68');
+values ('Francolinus leucoscepus', '704.36');
 insert into tb_worker (name, daily_income)
-values (367, '54.55');
+values ('Paraxerus cepapi', '482.96');
 insert into tb_worker (name, daily_income)
-values (368, '47.99');
+values ('Vulpes cinereoargenteus', '309.09');
 insert into tb_worker (name, daily_income)
-values (369, '26.46');
+values ('Trichoglossus chlorolepidotus', '727.91');
 insert into tb_worker (name, daily_income)
-values (370, '37.62');
+values ('Cacatua tenuirostris', '863.94');
 insert into tb_worker (name, daily_income)
-values (371, '86.57');
+values ('Hyaena brunnea', '138.17');
 insert into tb_worker (name, daily_income)
-values (372, '39.45');
+values ('Canis aureus', '832.40');
 insert into tb_worker (name, daily_income)
-values (373, '96.08');
+values ('Dicrostonyx groenlandicus', '219.43');
 insert into tb_worker (name, daily_income)
-values (374, '22.32');
+values ('Crotalus triseriatus', '65.19');
 insert into tb_worker (name, daily_income)
-values (375, '46.52');
+values ('Tamandua tetradactyla', '549.49');
 insert into tb_worker (name, daily_income)
-values (376, '74.60');
+values ('Hymenolaimus malacorhynchus', '119.65');
 insert into tb_worker (name, daily_income)
-values (377, '63.96');
+values ('Manouria emys', '598.28');
 insert into tb_worker (name, daily_income)
-values (378, '41.71');
+values ('Myotis lucifugus', '542.78');
 insert into tb_worker (name, daily_income)
-values (379, '38.78');
+values ('Ornithorhynchus anatinus', '212.99');
 insert into tb_worker (name, daily_income)
-values (380, '77.23');
+values ('Chlidonias leucopterus', '536.16');
 insert into tb_worker (name, daily_income)
-values (381, '60.99');
+values ('Cygnus atratus', '51.38');
 insert into tb_worker (name, daily_income)
-values (382, '40.62');
+values ('Colobus guerza', '740.83');
 insert into tb_worker (name, daily_income)
-values (383, '9.54');
+values ('Ictonyx striatus', '875.73');
 insert into tb_worker (name, daily_income)
-values (384, '52.99');
+values ('Ursus americanus', '669.74');
 insert into tb_worker (name, daily_income)
-values (385, '73.75');
+values ('Haematopus ater', '138.98');
 insert into tb_worker (name, daily_income)
-values (386, '67.09');
+values ('Meleagris gallopavo', '185.01');
 insert into tb_worker (name, daily_income)
-values (387, '68.74');
+values ('Nyctea scandiaca', '216.34');
 insert into tb_worker (name, daily_income)
-values (388, '45.36');
+values ('Acrobates pygmaeus', '326.69');
 insert into tb_worker (name, daily_income)
-values (389, '65.07');
+values ('Centrocercus urophasianus', '868.33');
 insert into tb_worker (name, daily_income)
-values (390, '36.69');
+values ('Raphicerus campestris', '286.52');
 insert into tb_worker (name, daily_income)
-values (391, '4.75');
+values ('Marmota monax', '614.66');
 insert into tb_worker (name, daily_income)
-values (392, '98.74');
+values ('Anser caerulescens', '340.20');
 insert into tb_worker (name, daily_income)
-values (393, '44.51');
+values ('Phoenicopterus ruber', '57.60');
 insert into tb_worker (name, daily_income)
-values (394, '71.65');
+values ('Canis lupus lycaon', '577.81');
 insert into tb_worker (name, daily_income)
-values (395, '38.39');
+values ('Cervus duvauceli', '868.99');
 insert into tb_worker (name, daily_income)
-values (396, '0.87');
+values ('Genetta genetta', '77.00');
 insert into tb_worker (name, daily_income)
-values (397, '92.77');
+values ('Oryx gazella', '69.18');
 insert into tb_worker (name, daily_income)
-values (398, '56.35');
+values ('Bubulcus ibis', '466.65');
 insert into tb_worker (name, daily_income)
-values (399, '97.63');
+values ('Eumetopias jubatus', '147.91');
 insert into tb_worker (name, daily_income)
-values (400, '74.31');
+values ('Sciurus vulgaris', '565.03');
 insert into tb_worker (name, daily_income)
-values (401, '78.86');
+values ('Eumetopias jubatus', '677.84');
 insert into tb_worker (name, daily_income)
-values (402, '43.46');
+values ('Trichosurus vulpecula', '702.60');
 insert into tb_worker (name, daily_income)
-values (403, '18.64');
+values ('Camelus dromedarius', '450.38');
 insert into tb_worker (name, daily_income)
-values (404, '94.30');
+values ('Psophia viridis', '100.59');
 insert into tb_worker (name, daily_income)
-values (405, '75.86');
+values ('Certotrichas paena', '642.32');
 insert into tb_worker (name, daily_income)
-values (406, '73.76');
+values ('Ictalurus furcatus', '741.71');
 insert into tb_worker (name, daily_income)
-values (407, '26.92');
+values ('Haliaeetus leucocephalus', '237.99');
 insert into tb_worker (name, daily_income)
-values (408, '9.05');
+values ('Macaca radiata', '738.60');
 insert into tb_worker (name, daily_income)
-values (409, '58.12');
+values ('Ursus americanus', '934.73');
 insert into tb_worker (name, daily_income)
-values (410, '30.03');
+values ('Canis aureus', '281.30');
 insert into tb_worker (name, daily_income)
-values (411, '44.14');
+values ('Chloephaga melanoptera', '574.42');
 insert into tb_worker (name, daily_income)
-values (412, '40.08');
+values ('Macropus parryi', '837.76');
 insert into tb_worker (name, daily_income)
-values (413, '62.79');
+values ('Toxostoma curvirostre', '246.82');
 insert into tb_worker (name, daily_income)
-values (414, '48.88');
+values ('Nucifraga columbiana', '903.79');
 insert into tb_worker (name, daily_income)
-values (415, '17.08');
+values ('Larus fuliginosus', '550.63');
 insert into tb_worker (name, daily_income)
-values (416, '66.80');
+values ('Agkistrodon piscivorus', '761.33');
 insert into tb_worker (name, daily_income)
-values (417, '25.07');
+values ('Trichosurus vulpecula', '243.57');
 insert into tb_worker (name, daily_income)
-values (418, '37.86');
+values ('Cervus canadensis', '355.03');
 insert into tb_worker (name, daily_income)
-values (419, '69.04');
+values ('Tachybaptus ruficollis', '68.04');
 insert into tb_worker (name, daily_income)
-values (420, '76.06');
+values ('Dasyurus viverrinus', '610.78');
 insert into tb_worker (name, daily_income)
-values (421, '94.43');
+values ('Merops nubicus', '578.00');
 insert into tb_worker (name, daily_income)
-values (422, '64.41');
+values ('Isoodon obesulus', '877.50');
 insert into tb_worker (name, daily_income)
-values (423, '30.00');
+values ('Phoenicopterus ruber', '208.09');
 insert into tb_worker (name, daily_income)
-values (424, '17.76');
+values ('Cacatua tenuirostris', '307.35');
 insert into tb_worker (name, daily_income)
-values (425, '33.23');
+values ('Ursus arctos', '595.17');
 insert into tb_worker (name, daily_income)
-values (426, '9.80');
+values ('Bubalus arnee', '833.25');
 insert into tb_worker (name, daily_income)
-values (427, '87.13');
+values ('Macropus rufus', '100.36');
 insert into tb_worker (name, daily_income)
-values (428, '60.66');
+values ('Cercopithecus aethiops', '792.08');
 insert into tb_worker (name, daily_income)
-values (429, '57.23');
+values ('Felis silvestris lybica', '268.07');
 insert into tb_worker (name, daily_income)
-values (430, '85.53');
+values ('Panthera leo', '99.35');
 insert into tb_worker (name, daily_income)
-values (431, '28.64');
+values ('Bugeranus caruncalatus', '18.56');
 insert into tb_worker (name, daily_income)
-values (432, '57.12');
+values ('Drymarchon corias couperi', '207.72');
 insert into tb_worker (name, daily_income)
-values (433, '90.78');
+values ('Thamnolaea cinnmomeiventris', '441.87');
 insert into tb_worker (name, daily_income)
-values (434, '86.14');
+values ('Columba livia', '472.65');
 insert into tb_worker (name, daily_income)
-values (435, '27.57');
+values ('Francolinus coqui', '711.25');
 insert into tb_worker (name, daily_income)
-values (436, '98.56');
+values ('Ovis dalli stonei', '109.72');
 insert into tb_worker (name, daily_income)
-values (437, '55.77');
+values ('Ephippiorhynchus mycteria', '338.61');
 insert into tb_worker (name, daily_income)
-values (438, '67.43');
+values ('Corvus albicollis', '151.47');
 insert into tb_worker (name, daily_income)
-values (439, '23.44');
+values ('Corvus brachyrhynchos', '194.94');
 insert into tb_worker (name, daily_income)
-values (440, '65.08');
+values ('Psophia viridis', '155.03');
 insert into tb_worker (name, daily_income)
-values (441, '69.77');
+values ('Phalacrocorax carbo', '914.58');
 insert into tb_worker (name, daily_income)
-values (442, '69.12');
+values ('Alopochen aegyptiacus', '124.38');
 insert into tb_worker (name, daily_income)
-values (443, '24.97');
+values ('Ursus arctos', '226.08');
 insert into tb_worker (name, daily_income)
-values (444, '1.41');
+values ('Megaderma spasma', '489.80');
 insert into tb_worker (name, daily_income)
-values (445, '75.72');
+values ('Pytilia melba', '253.42');
 insert into tb_worker (name, daily_income)
-values (446, '37.48');
+values ('Lutra canadensis', '916.55');
 insert into tb_worker (name, daily_income)
-values (447, '58.60');
+values ('Streptopelia decipiens', '564.79');
 insert into tb_worker (name, daily_income)
-values (448, '39.69');
+values ('Lamprotornis sp.', '637.22');
 insert into tb_worker (name, daily_income)
-values (449, '25.88');
+values ('Phascogale tapoatafa', '785.34');
 insert into tb_worker (name, daily_income)
-values (450, '64.50');
+values ('Felis silvestris lybica', '657.40');
 insert into tb_worker (name, daily_income)
-values (451, '58.29');
+values ('Galictis vittata', '466.01');
 insert into tb_worker (name, daily_income)
-values (452, '16.75');
+values ('Lamprotornis superbus', '386.88');
 insert into tb_worker (name, daily_income)
-values (453, '69.57');
+values ('Morelia spilotes variegata', '12.82');
 insert into tb_worker (name, daily_income)
-values (454, '87.78');
+values ('Sylvicapra grimma', '6.62');
 insert into tb_worker (name, daily_income)
-values (455, '31.54');
+values ('Eunectes sp.', '316.31');
 insert into tb_worker (name, daily_income)
-values (456, '41.07');
+values ('Butorides striatus', '862.35');
 insert into tb_worker (name, daily_income)
-values (457, '13.81');
+values ('Naja haje', '235.41');
 insert into tb_worker (name, daily_income)
-values (458, '61.10');
+values ('Spermophilus tridecemlineatus', '530.09');
 insert into tb_worker (name, daily_income)
-values (459, '8.62');
+values ('Drymarchon corias couperi', '961.36');
 insert into tb_worker (name, daily_income)
-values (460, '56.95');
+values ('Panthera leo', '735.50');
 insert into tb_worker (name, daily_income)
-values (461, '42.47');
+values ('Sciurus vulgaris', '9.03');
 insert into tb_worker (name, daily_income)
-values (462, '38.16');
+values ('Trichosurus vulpecula', '294.20');
 insert into tb_worker (name, daily_income)
-values (463, '93.21');
+values ('Vulpes chama', '324.63');
 insert into tb_worker (name, daily_income)
-values (464, '7.70');
+values ('Otaria flavescens', '954.71');
 insert into tb_worker (name, daily_income)
-values (465, '94.35');
+values ('Geochelone elegans', '804.02');
 insert into tb_worker (name, daily_income)
-values (466, '1.74');
+values ('Lutra canadensis', '718.73');
 insert into tb_worker (name, daily_income)
-values (467, '55.55');
+values ('Cacatua tenuirostris', '579.33');
 insert into tb_worker (name, daily_income)
-values (468, '67.74');
+values ('Ephippiorhynchus mycteria', '862.52');
 insert into tb_worker (name, daily_income)
-values (469, '49.57');
+values ('Lemur fulvus', '44.33');
 insert into tb_worker (name, daily_income)
-values (470, '23.57');
+values ('Geochelone elephantopus', '439.54');
 insert into tb_worker (name, daily_income)
-values (471, '38.66');
+values ('Dipodomys deserti', '778.21');
 insert into tb_worker (name, daily_income)
-values (472, '26.40');
+values ('Nyctea scandiaca', '340.61');
 insert into tb_worker (name, daily_income)
-values (473, '10.05');
+values ('Crotalus cerastes', '795.46');
 insert into tb_worker (name, daily_income)
-values (474, '42.20');
+values ('Canis dingo', '579.51');
 insert into tb_worker (name, daily_income)
-values (475, '12.30');
+values ('Phalacrocorax carbo', '833.14');
 insert into tb_worker (name, daily_income)
-values (476, '13.47');
+values ('Vombatus ursinus', '313.12');
 insert into tb_worker (name, daily_income)
-values (477, '25.36');
+values ('unavailable', '815.16');
 insert into tb_worker (name, daily_income)
-values (478, '92.42');
+values ('Erethizon dorsatum', '903.12');
 insert into tb_worker (name, daily_income)
-values (479, '12.79');
+values ('Macropus parryi', '934.31');
 insert into tb_worker (name, daily_income)
-values (480, '64.10');
+values ('Cynomys ludovicianus', '437.33');
 insert into tb_worker (name, daily_income)
-values (481, '92.24');
+values ('Oreamnos americanus', '296.39');
 insert into tb_worker (name, daily_income)
-values (482, '68.91');
+values ('Phascogale calura', '290.49');
 insert into tb_worker (name, daily_income)
-values (483, '89.67');
+values ('Rhea americana', '265.16');
 insert into tb_worker (name, daily_income)
-values (484, '23.33');
+values ('Petaurus breviceps', '495.99');
 insert into tb_worker (name, daily_income)
-values (485, '48.15');
+values ('Egretta thula', '791.37');
 insert into tb_worker (name, daily_income)
-values (486, '3.20');
+values ('Ratufa indica', '946.89');
 insert into tb_worker (name, daily_income)
-values (487, '94.11');
+values ('Papio cynocephalus', '817.85');
 insert into tb_worker (name, daily_income)
-values (488, '26.82');
+values ('Spheniscus magellanicus', '485.23');
 insert into tb_worker (name, daily_income)
-values (489, '83.78');
+values ('Semnopithecus entellus', '1.89');
 insert into tb_worker (name, daily_income)
-values (490, '5.93');
+values ('Merops nubicus', '867.86');
 insert into tb_worker (name, daily_income)
-values (491, '71.14');
+values ('Canis mesomelas', '884.97');
 insert into tb_worker (name, daily_income)
-values (492, '66.56');
+values ('Phascogale tapoatafa', '183.85');
 insert into tb_worker (name, daily_income)
-values (493, '25.14');
+values ('Plegadis ridgwayi', '238.00');
 insert into tb_worker (name, daily_income)
-values (494, '3.33');
+values ('Phalaropus lobatus', '670.17');
 insert into tb_worker (name, daily_income)
-values (495, '31.69');
+values ('Iguana iguana', '831.62');
 insert into tb_worker (name, daily_income)
-values (496, '53.59');
+values ('Streptopelia decipiens', '261.21');
 insert into tb_worker (name, daily_income)
-values (497, '74.46');
+values ('Trichoglossus haematodus moluccanus', '964.80');
 insert into tb_worker (name, daily_income)
-values (498, '3.28');
+values ('Eremophila alpestris', '735.15');
 insert into tb_worker (name, daily_income)
-values (499, '75.44');
+values ('Francolinus swainsonii', '737.71');
 insert into tb_worker (name, daily_income)
-values (500, '26.07');
+values ('Paradoxurus hermaphroditus', '612.58');
 insert into tb_worker (name, daily_income)
-values (501, '31.60');
+values ('Centrocercus urophasianus', '287.93');
 insert into tb_worker (name, daily_income)
-values (502, '64.54');
+values ('Felis concolor', '711.43');
 insert into tb_worker (name, daily_income)
-values (503, '98.65');
+values ('Francolinus coqui', '937.49');
 insert into tb_worker (name, daily_income)
-values (504, '33.07');
+values ('Ammospermophilus nelsoni', '745.56');
 insert into tb_worker (name, daily_income)
-values (505, '82.55');
+values ('Crax sp.', '679.69');
 insert into tb_worker (name, daily_income)
-values (506, '88.70');
+values ('Chlidonias leucopterus', '345.29');
 insert into tb_worker (name, daily_income)
-values (507, '10.75');
+values ('Tringa glareola', '767.41');
 insert into tb_worker (name, daily_income)
-values (508, '76.85');
+values ('Sarcorhamphus papa', '906.79');
 insert into tb_worker (name, daily_income)
-values (509, '51.82');
+values ('Tragelaphus angasi', '593.09');
 insert into tb_worker (name, daily_income)
-values (510, '16.61');
+values ('Morelia spilotes variegata', '149.83');
 insert into tb_worker (name, daily_income)
-values (511, '58.86');
+values ('Otaria flavescens', '62.74');
 insert into tb_worker (name, daily_income)
-values (512, '89.85');
+values ('Vulpes vulpes', '852.74');
 insert into tb_worker (name, daily_income)
-values (513, '38.45');
+values ('Equus hemionus', '604.97');
 insert into tb_worker (name, daily_income)
-values (514, '64.17');
+values ('Oryx gazella callotis', '493.08');
 insert into tb_worker (name, daily_income)
-values (515, '17.89');
+values ('Choloepus hoffmani', '226.52');
 insert into tb_worker (name, daily_income)
-values (516, '20.39');
+values ('Colobus guerza', '256.99');
 insert into tb_worker (name, daily_income)
-values (517, '23.77');
+values ('Dendrocitta vagabunda', '905.72');
 insert into tb_worker (name, daily_income)
-values (518, '96.47');
+values ('Buteo galapagoensis', '352.75');
 insert into tb_worker (name, daily_income)
-values (519, '39.72');
+values ('Tapirus terrestris', '81.19');
 insert into tb_worker (name, daily_income)
-values (520, '30.98');
+values ('Castor canadensis', '629.91');
 insert into tb_worker (name, daily_income)
-values (521, '38.05');
+values ('Callorhinus ursinus', '101.81');
 insert into tb_worker (name, daily_income)
-values (522, '62.51');
+values ('Otaria flavescens', '336.31');
 insert into tb_worker (name, daily_income)
-values (523, '10.69');
+values ('Terathopius ecaudatus', '100.99');
 insert into tb_worker (name, daily_income)
-values (524, '28.27');
+values ('Manouria emys', '803.48');
 insert into tb_worker (name, daily_income)
-values (525, '95.78');
+values ('Meleagris gallopavo', '477.48');
 insert into tb_worker (name, daily_income)
-values (526, '56.11');
+values ('Thamnolaea cinnmomeiventris', '70.24');
 insert into tb_worker (name, daily_income)
-values (527, '10.75');
+values ('Otaria flavescens', '22.31');
 insert into tb_worker (name, daily_income)
-values (528, '0.33');
+values ('Theropithecus gelada', '242.69');
 insert into tb_worker (name, daily_income)
-values (529, '90.84');
+values ('Anastomus oscitans', '529.53');
 insert into tb_worker (name, daily_income)
-values (530, '42.51');
+values ('Equus burchelli', '734.50');
 insert into tb_worker (name, daily_income)
-values (531, '79.89');
+values ('Varanus salvator', '799.64');
 insert into tb_worker (name, daily_income)
-values (532, '26.55');
+values ('Orcinus orca', '675.58');
 insert into tb_worker (name, daily_income)
-values (533, '97.57');
+values ('Neophron percnopterus', '517.33');
 insert into tb_worker (name, daily_income)
-values (534, '10.71');
+values ('Manouria emys', '777.30');
 insert into tb_worker (name, daily_income)
-values (535, '61.81');
+values ('Bassariscus astutus', '707.01');
 insert into tb_worker (name, daily_income)
-values (536, '33.46');
+values ('Drymarchon corias couperi', '428.08');
 insert into tb_worker (name, daily_income)
-values (537, '0.46');
+values ('Semnopithecus entellus', '101.50');
 insert into tb_worker (name, daily_income)
-values (538, '60.53');
+values ('Zenaida asiatica', '838.65');
 insert into tb_worker (name, daily_income)
-values (539, '81.55');
+values ('Phascolarctos cinereus', '382.75');
 insert into tb_worker (name, daily_income)
-values (540, '79.75');
+values ('Phoenicopterus chilensis', '952.83');
 insert into tb_worker (name, daily_income)
-values (541, '57.02');
+values ('Corvus brachyrhynchos', '144.62');
 insert into tb_worker (name, daily_income)
-values (542, '85.25');
+values ('Bos taurus', '333.68');
 insert into tb_worker (name, daily_income)
-values (543, '90.01');
+values ('Ovis ammon', '841.21');
 insert into tb_worker (name, daily_income)
-values (544, '50.59');
+values ('Boa caninus', '487.17');
 insert into tb_worker (name, daily_income)
-values (545, '46.68');
+values ('Aegypius tracheliotus', '251.39');
 insert into tb_worker (name, daily_income)
-values (546, '51.12');
+values ('Eubalaena australis', '151.85');
 insert into tb_worker (name, daily_income)
-values (547, '55.60');
+values ('Morelia spilotes variegata', '701.90');
 insert into tb_worker (name, daily_income)
-values (548, '12.70');
+values ('Philetairus socius', '840.50');
 insert into tb_worker (name, daily_income)
-values (549, '56.53');
+values ('Ploceus rubiginosus', '263.52');
 insert into tb_worker (name, daily_income)
-values (550, '91.54');
+values ('Theropithecus gelada', '547.60');
 insert into tb_worker (name, daily_income)
-values (551, '81.50');
+values ('Phascogale tapoatafa', '66.46');
 insert into tb_worker (name, daily_income)
-values (552, '11.60');
+values ('Eumetopias jubatus', '143.06');
 insert into tb_worker (name, daily_income)
-values (553, '92.78');
+values ('Dendrocygna viduata', '959.15');
 insert into tb_worker (name, daily_income)
-values (554, '72.35');
+values ('Zenaida galapagoensis', '624.41');
 insert into tb_worker (name, daily_income)
-values (555, '93.19');
+values ('Aonyx capensis', '950.54');
 insert into tb_worker (name, daily_income)
-values (556, '6.67');
+values ('Oxybelis fulgidus', '319.84');
 insert into tb_worker (name, daily_income)
-values (557, '97.69');
+values ('Motacilla aguimp', '475.11');
 insert into tb_worker (name, daily_income)
-values (558, '84.51');
+values ('Butorides striatus', '564.95');
 insert into tb_worker (name, daily_income)
-values (559, '81.86');
+values ('Colaptes campestroides', '623.51');
 insert into tb_worker (name, daily_income)
-values (560, '41.89');
+values ('Mirounga leonina', '393.35');
 insert into tb_worker (name, daily_income)
-values (561, '18.04');
+values ('Parus atricapillus', '451.85');
 insert into tb_worker (name, daily_income)
-values (562, '12.12');
+values ('Isoodon obesulus', '613.58');
 insert into tb_worker (name, daily_income)
-values (563, '99.58');
+values ('Sarcophilus harrisii', '573.64');
 insert into tb_worker (name, daily_income)
-values (564, '98.28');
+values ('Felis caracal', '156.01');
 insert into tb_worker (name, daily_income)
-values (565, '67.70');
+values ('Geochelone radiata', '491.42');
 insert into tb_worker (name, daily_income)
-values (566, '25.39');
+values ('Melanerpes erythrocephalus', '430.48');
 insert into tb_worker (name, daily_income)
-values (567, '91.30');
+values ('Tringa glareola', '222.24');
 insert into tb_worker (name, daily_income)
-values (568, '87.07');
+values ('Dendrocitta vagabunda', '420.83');
 insert into tb_worker (name, daily_income)
-values (569, '53.02');
+values ('Limnocorax flavirostra', '197.11');
 insert into tb_worker (name, daily_income)
-values (570, '22.93');
+values ('Aonyx cinerea', '846.57');
 insert into tb_worker (name, daily_income)
-values (571, '79.92');
+values ('Buteo regalis', '785.81');
 insert into tb_worker (name, daily_income)
-values (572, '37.06');
+values ('Tiliqua scincoides', '382.08');
 insert into tb_worker (name, daily_income)
-values (573, '18.39');
+values ('Stercorarius longicausus', '918.30');
 insert into tb_worker (name, daily_income)
-values (574, '25.49');
+values ('Genetta genetta', '247.57');
 insert into tb_worker (name, daily_income)
-values (575, '99.30');
+values ('Ictonyx striatus', '869.12');
 insert into tb_worker (name, daily_income)
-values (576, '67.70');
+values ('Macropus agilis', '98.04');
 insert into tb_worker (name, daily_income)
-values (577, '42.21');
+values ('Dusicyon thous', '391.60');
 insert into tb_worker (name, daily_income)
-values (578, '27.50');
+values ('Nannopterum harrisi', '106.72');
 insert into tb_worker (name, daily_income)
-values (579, '92.36');
+values ('Eremophila alpestris', '832.82');
 insert into tb_worker (name, daily_income)
-values (580, '91.29');
+values ('Larus novaehollandiae', '256.35');
 insert into tb_worker (name, daily_income)
-values (581, '64.91');
+values ('Echimys chrysurus', '151.04');
 insert into tb_worker (name, daily_income)
-values (582, '76.20');
+values ('Connochaetus taurinus', '961.37');
 insert into tb_worker (name, daily_income)
-values (583, '10.92');
+values ('Mazama gouazoubira', '625.95');
 insert into tb_worker (name, daily_income)
-values (584, '46.60');
+values ('Cacatua tenuirostris', '933.82');
 insert into tb_worker (name, daily_income)
-values (585, '49.81');
+values ('unavailable', '155.79');
 insert into tb_worker (name, daily_income)
-values (586, '9.60');
+values ('Pteropus rufus', '982.77');
 insert into tb_worker (name, daily_income)
-values (587, '62.47');
+values ('Acrantophis madagascariensis', '341.37');
 insert into tb_worker (name, daily_income)
-values (588, '45.46');
+values ('Anthropoides paradisea', '781.60');
 insert into tb_worker (name, daily_income)
-values (589, '38.44');
+values ('Streptopelia senegalensis', '793.53');
 insert into tb_worker (name, daily_income)
-values (590, '36.87');
+values ('Corallus hortulanus cooki', '159.55');
 insert into tb_worker (name, daily_income)
-values (591, '17.07');
+values ('Philetairus socius', '777.25');
 insert into tb_worker (name, daily_income)
-values (592, '3.72');
+values ('Dasypus novemcinctus', '548.53');
 insert into tb_worker (name, daily_income)
-values (593, '10.27');
+values ('Bassariscus astutus', '878.57');
 insert into tb_worker (name, daily_income)
-values (594, '22.98');
+values ('Sauromalus obesus', '262.27');
 insert into tb_worker (name, daily_income)
-values (595, '61.67');
+values ('Eudyptula minor', '477.83');
 insert into tb_worker (name, daily_income)
-values (596, '95.79');
+values ('Lamprotornis nitens', '569.04');
 insert into tb_worker (name, daily_income)
-values (597, '62.90');
+values ('Tockus flavirostris', '314.78');
 insert into tb_worker (name, daily_income)
-values (598, '48.14');
+values ('unavailable', '397.28');
 insert into tb_worker (name, daily_income)
-values (599, '80.38');
+values ('Corvus albus', '492.59');
 insert into tb_worker (name, daily_income)
-values (600, '43.23');
+values ('unavailable', '84.86');
 insert into tb_worker (name, daily_income)
-values (601, '62.94');
+values ('Paraxerus cepapi', '380.44');
 insert into tb_worker (name, daily_income)
-values (602, '89.21');
+values ('Gymnorhina tibicen', '422.12');
 insert into tb_worker (name, daily_income)
-values (603, '44.18');
+values ('Papio cynocephalus', '459.02');
 insert into tb_worker (name, daily_income)
-values (604, '66.93');
+values ('Chlidonias leucopterus', '301.68');
 insert into tb_worker (name, daily_income)
-values (605, '76.55');
+values ('Sus scrofa', '702.68');
 insert into tb_worker (name, daily_income)
-values (606, '28.69');
+values ('Procyon cancrivorus', '205.83');
 insert into tb_worker (name, daily_income)
-values (607, '78.82');
+values ('Mungos mungo', '201.47');
 insert into tb_worker (name, daily_income)
-values (608, '40.61');
+values ('Dusicyon thous', '943.34');
 insert into tb_worker (name, daily_income)
-values (609, '34.77');
+values ('Colaptes campestroides', '79.96');
 insert into tb_worker (name, daily_income)
-values (610, '14.53');
+values ('Axis axis', '732.13');
 insert into tb_worker (name, daily_income)
-values (611, '36.55');
+values ('Isoodon obesulus', '13.36');
 insert into tb_worker (name, daily_income)
-values (612, '57.55');
+values ('Cervus duvauceli', '727.33');
 insert into tb_worker (name, daily_income)
-values (613, '99.97');
+values ('Meleagris gallopavo', '524.90');
 insert into tb_worker (name, daily_income)
-values (614, '65.03');
+values ('Felis silvestris lybica', '582.92');
 insert into tb_worker (name, daily_income)
-values (615, '99.46');
+values ('unavailable', '123.41');
 insert into tb_worker (name, daily_income)
-values (616, '11.48');
+values ('Mazama gouazoubira', '130.75');
 insert into tb_worker (name, daily_income)
-values (617, '99.20');
+values ('Iguana iguana', '262.10');
 insert into tb_worker (name, daily_income)
-values (618, '81.43');
+values ('Xerus sp.', '8.92');
 insert into tb_worker (name, daily_income)
-values (619, '28.12');
+values ('Spilogale gracilis', '811.32');
 insert into tb_worker (name, daily_income)
-values (620, '78.46');
+values ('Axis axis', '358.30');
 insert into tb_worker (name, daily_income)
-values (621, '64.30');
+values ('Coendou prehensilis', '689.22');
 insert into tb_worker (name, daily_income)
-values (622, '59.75');
+values ('Pseudocheirus peregrinus', '706.47');
 insert into tb_worker (name, daily_income)
-values (623, '11.12');
+values ('Eolophus roseicapillus', '246.85');
 insert into tb_worker (name, daily_income)
-values (624, '88.51');
+values ('Spermophilus parryii', '62.96');
 insert into tb_worker (name, daily_income)
-values (625, '84.29');
+values ('Coendou prehensilis', '515.20');
 insert into tb_worker (name, daily_income)
-values (626, '72.70');
+values ('Sitta canadensis', '893.01');
 insert into tb_worker (name, daily_income)
-values (627, '5.57');
+values ('Junonia genoveua', '814.62');
 insert into tb_worker (name, daily_income)
-values (628, '81.54');
+values ('Crocuta crocuta', '526.04');
 insert into tb_worker (name, daily_income)
-values (629, '52.64');
+values ('Oryx gazella', '499.83');
 insert into tb_worker (name, daily_income)
-values (630, '43.08');
+values ('unavailable', '26.93');
 insert into tb_worker (name, daily_income)
-values (631, '90.19');
+values ('Pseudocheirus peregrinus', '372.34');
 insert into tb_worker (name, daily_income)
-values (632, '35.99');
+values ('Catharacta skua', '405.57');
 insert into tb_worker (name, daily_income)
-values (633, '48.38');
+values ('Sagittarius serpentarius', '258.29');
 insert into tb_worker (name, daily_income)
-values (634, '51.70');
+values ('Plocepasser mahali', '357.68');
 insert into tb_worker (name, daily_income)
-values (635, '49.80');
+values ('Uraeginthus angolensis', '799.79');
 insert into tb_worker (name, daily_income)
-values (636, '73.60');
+values ('Zalophus californicus', '9.89');
 insert into tb_worker (name, daily_income)
-values (637, '11.11');
+values ('Eolophus roseicapillus', '330.41');
 insert into tb_worker (name, daily_income)
-values (638, '96.32');
+values ('Odocoilenaus virginianus', '198.71');
 insert into tb_worker (name, daily_income)
-values (639, '14.43');
+values ('Columba palumbus', '5.91');
 insert into tb_worker (name, daily_income)
-values (640, '21.53');
+values ('Merops nubicus', '562.78');
 insert into tb_worker (name, daily_income)
-values (641, '19.46');
+values ('Papilio canadensis', '709.46');
 insert into tb_worker (name, daily_income)
-values (642, '53.96');
+values ('Dusicyon thous', '640.65');
 insert into tb_worker (name, daily_income)
-values (643, '66.92');
+values ('Aonyx cinerea', '362.62');
 insert into tb_worker (name, daily_income)
-values (644, '82.56');
+values ('Castor canadensis', '590.83');
 insert into tb_worker (name, daily_income)
-values (645, '35.09');
+values ('Merops nubicus', '977.47');
 insert into tb_worker (name, daily_income)
-values (646, '59.28');
+values ('Chionis alba', '577.07');
 insert into tb_worker (name, daily_income)
-values (647, '52.77');
+values ('Dicrurus adsimilis', '213.50');
 insert into tb_worker (name, daily_income)
-values (648, '46.46');
+values ('Paradoxurus hermaphroditus', '59.07');
 insert into tb_worker (name, daily_income)
-values (649, '0.42');
+values ('Diomedea irrorata', '598.79');
 insert into tb_worker (name, daily_income)
-values (650, '3.44');
+values ('Suricata suricatta', '938.06');
 insert into tb_worker (name, daily_income)
-values (651, '92.07');
+values ('Bassariscus astutus', '802.44');
 insert into tb_worker (name, daily_income)
-values (652, '49.50');
+values ('Macropus robustus', '139.03');
 insert into tb_worker (name, daily_income)
-values (653, '25.29');
+values ('Anas bahamensis', '717.69');
 insert into tb_worker (name, daily_income)
-values (654, '89.91');
+values ('Boselaphus tragocamelus', '982.19');
 insert into tb_worker (name, daily_income)
-values (655, '99.69');
+values ('Ara ararauna', '253.23');
 insert into tb_worker (name, daily_income)
-values (656, '28.49');
+values ('Arctogalidia trivirgata', '428.78');
 insert into tb_worker (name, daily_income)
-values (657, '65.96');
+values ('Spermophilus armatus', '271.12');
 insert into tb_worker (name, daily_income)
-values (658, '17.64');
+values ('Isoodon obesulus', '355.67');
 insert into tb_worker (name, daily_income)
-values (659, '66.49');
+values ('Corvus albus', '164.80');
 insert into tb_worker (name, daily_income)
-values (660, '97.50');
+values ('Pycnonotus nigricans', '614.59');
 insert into tb_worker (name, daily_income)
-values (661, '57.91');
+values ('Crotalus triseriatus', '669.55');
 insert into tb_worker (name, daily_income)
-values (662, '33.10');
+values ('Galago crassicaudataus', '443.69');
 insert into tb_worker (name, daily_income)
-values (663, '95.68');
+values ('Parus atricapillus', '984.88');
 insert into tb_worker (name, daily_income)
-values (664, '55.81');
+values ('Rangifer tarandus', '761.21');
 insert into tb_worker (name, daily_income)
-values (665, '61.32');
+values ('Sagittarius serpentarius', '963.09');
 insert into tb_worker (name, daily_income)
-values (666, '94.59');
+values ('Phalacrocorax niger', '186.65');
 insert into tb_worker (name, daily_income)
-values (667, '53.52');
+values ('Chauna torquata', '966.73');
 insert into tb_worker (name, daily_income)
-values (668, '17.85');
+values ('Oreamnos americanus', '759.93');
 insert into tb_worker (name, daily_income)
-values (669, '84.47');
+values ('unavailable', '632.53');
 insert into tb_worker (name, daily_income)
-values (670, '20.67');
+values ('Platalea leucordia', '383.85');
 insert into tb_worker (name, daily_income)
-values (671, '30.34');
+values ('Phalacrocorax carbo', '70.50');
 insert into tb_worker (name, daily_income)
-values (672, '67.36');
+values ('Coluber constrictor foxii', '697.09');
 insert into tb_worker (name, daily_income)
-values (673, '59.16');
+values ('Chordeiles minor', '527.82');
 insert into tb_worker (name, daily_income)
-values (674, '72.12');
+values ('Catharacta skua', '761.27');
 insert into tb_worker (name, daily_income)
-values (675, '26.48');
+values ('Zalophus californicus', '46.46');
 insert into tb_worker (name, daily_income)
-values (676, '32.49');
+values ('Elephas maximus bengalensis', '685.97');
 insert into tb_worker (name, daily_income)
-values (677, '9.82');
+values ('Ursus americanus', '533.54');
 insert into tb_worker (name, daily_income)
-values (678, '29.21');
+values ('Cervus unicolor', '107.52');
 insert into tb_worker (name, daily_income)
-values (679, '99.89');
+values ('Ratufa indica', '824.78');
 insert into tb_worker (name, daily_income)
-values (680, '13.88');
+values ('Crotalus adamanteus', '145.20');
 insert into tb_worker (name, daily_income)
-values (681, '22.56');
+values ('Morelia spilotes variegata', '428.51');
 insert into tb_worker (name, daily_income)
-values (682, '82.28');
+values ('Lophoaetus occipitalis', '989.32');
 insert into tb_worker (name, daily_income)
-values (683, '59.98');
+values ('Sceloporus magister', '541.80');
 insert into tb_worker (name, daily_income)
-values (684, '73.01');
+values ('Mazama americana', '159.09');
 insert into tb_worker (name, daily_income)
-values (685, '78.68');
+values ('unavailable', '692.61');
 insert into tb_worker (name, daily_income)
-values (686, '28.74');
+values ('Alopochen aegyptiacus', '499.31');
 insert into tb_worker (name, daily_income)
-values (687, '59.57');
+values ('Mazama gouazoubira', '311.38');
 insert into tb_worker (name, daily_income)
-values (688, '14.76');
+values ('Dendrocitta vagabunda', '971.82');
 insert into tb_worker (name, daily_income)
-values (689, '0.21');
+values ('Aonyx cinerea', '666.03');
 insert into tb_worker (name, daily_income)
-values (690, '42.39');
+values ('Snycerus caffer', '731.86');
 insert into tb_worker (name, daily_income)
-values (691, '39.24');
+values ('Sylvilagus floridanus', '24.31');
 insert into tb_worker (name, daily_income)
-values (692, '7.24');
+values ('Mazama americana', '559.93');
 insert into tb_worker (name, daily_income)
-values (693, '56.47');
+values ('Naja haje', '579.49');
 insert into tb_worker (name, daily_income)
-values (694, '34.19');
+values ('Libellula quadrimaculata', '739.88');
 insert into tb_worker (name, daily_income)
-values (695, '36.51');
+values ('Genetta genetta', '270.53');
 insert into tb_worker (name, daily_income)
-values (696, '34.24');
+values ('Macropus robustus', '210.92');
 insert into tb_worker (name, daily_income)
-values (697, '94.73');
+values ('Alopochen aegyptiacus', '376.77');
 insert into tb_worker (name, daily_income)
-values (698, '63.90');
+values ('Acrobates pygmaeus', '706.87');
 insert into tb_worker (name, daily_income)
-values (699, '27.88');
+values ('unavailable', '485.50');
 insert into tb_worker (name, daily_income)
-values (700, '63.54');
+values ('Macaca fuscata', '764.62');
 insert into tb_worker (name, daily_income)
-values (701, '51.04');
+values ('Lorythaixoides concolor', '392.53');
 insert into tb_worker (name, daily_income)
-values (702, '24.36');
+values ('Phalacrocorax varius', '144.32');
 insert into tb_worker (name, daily_income)
-values (703, '99.38');
+values ('Ovibos moschatus', '123.62');
 insert into tb_worker (name, daily_income)
-values (704, '14.60');
+values ('Kobus defassa', '209.88');
 insert into tb_worker (name, daily_income)
-values (705, '12.81');
+values ('Limosa haemastica', '757.00');
 insert into tb_worker (name, daily_income)
-values (706, '21.90');
+values ('Crotalus triseriatus', '681.92');
 insert into tb_worker (name, daily_income)
-values (707, '23.07');
+values ('Spizaetus coronatus', '650.03');
 insert into tb_worker (name, daily_income)
-values (708, '2.62');
+values ('Mungos mungo', '373.16');
 insert into tb_worker (name, daily_income)
-values (709, '28.00');
+values ('Eremophila alpestris', '423.30');
 insert into tb_worker (name, daily_income)
-values (710, '81.47');
+values ('Canis aureus', '830.37');
 insert into tb_worker (name, daily_income)
-values (711, '37.10');
+values ('Coluber constrictor', '614.37');
 insert into tb_worker (name, daily_income)
-values (712, '87.80');
+values ('Streptopelia decipiens', '808.14');
 insert into tb_worker (name, daily_income)
-values (713, '26.44');
+values ('Alcelaphus buselaphus caama', '729.63');
 insert into tb_worker (name, daily_income)
-values (714, '9.43');
+values ('Castor canadensis', '288.81');
 insert into tb_worker (name, daily_income)
-values (715, '39.97');
+values ('Corallus hortulanus cooki', '209.66');
 insert into tb_worker (name, daily_income)
-values (716, '23.92');
+values ('Madoqua kirkii', '828.57');
 insert into tb_worker (name, daily_income)
-values (717, '16.26');
+values ('Limnocorax flavirostra', '502.87');
 insert into tb_worker (name, daily_income)
-values (718, '28.60');
+values ('Francolinus swainsonii', '22.72');
 insert into tb_worker (name, daily_income)
-values (719, '38.40');
+values ('Buteo galapagoensis', '705.22');
 insert into tb_worker (name, daily_income)
-values (720, '58.98');
+values ('Tachybaptus ruficollis', '932.21');
 insert into tb_worker (name, daily_income)
-values (721, '77.02');
+values ('Eubalaena australis', '53.69');
 insert into tb_worker (name, daily_income)
-values (722, '73.43');
+values ('Zosterops pallidus', '299.61');
 insert into tb_worker (name, daily_income)
-values (723, '97.39');
+values ('Canis aureus', '758.82');
 insert into tb_worker (name, daily_income)
-values (724, '70.61');
+values ('Ovis canadensis', '412.51');
 insert into tb_worker (name, daily_income)
-values (725, '85.63');
+values ('Bradypus tridactylus', '348.78');
 insert into tb_worker (name, daily_income)
-values (726, '98.58');
+values ('Dasyurus viverrinus', '511.57');
 insert into tb_worker (name, daily_income)
-values (727, '61.35');
+values ('Mycteria leucocephala', '589.70');
 insert into tb_worker (name, daily_income)
-values (728, '18.69');
+values ('Aegypius tracheliotus', '999.79');
 insert into tb_worker (name, daily_income)
-values (729, '55.99');
+values ('Nyctea scandiaca', '763.32');
 insert into tb_worker (name, daily_income)
-values (730, '0.63');
+values ('Cacatua galerita', '516.38');
 insert into tb_worker (name, daily_income)
-values (731, '29.75');
+values ('Gyps bengalensis', '812.19');
 insert into tb_worker (name, daily_income)
-values (732, '97.79');
+values ('Lemur catta', '803.87');
 insert into tb_worker (name, daily_income)
-values (733, '80.48');
+values ('Papio cynocephalus', '657.56');
 insert into tb_worker (name, daily_income)
-values (734, '7.75');
+values ('Amazona sp.', '700.02');
 insert into tb_worker (name, daily_income)
-values (735, '7.78');
+values ('Corythornis cristata', '883.99');
 insert into tb_worker (name, daily_income)
-values (736, '16.12');
+values ('Anhinga rufa', '131.90');
 insert into tb_worker (name, daily_income)
-values (737, '73.91');
+values ('Panthera onca', '771.03');
 insert into tb_worker (name, daily_income)
-values (738, '88.30');
+values ('Speotyte cuniculata', '992.81');
 insert into tb_worker (name, daily_income)
-values (739, '39.58');
+values ('Coendou prehensilis', '617.41');
 insert into tb_worker (name, daily_income)
-values (740, '54.43');
+values ('Cacatua tenuirostris', '43.20');
 insert into tb_worker (name, daily_income)
-values (741, '36.82');
+values ('Castor canadensis', '16.66');
 insert into tb_worker (name, daily_income)
-values (742, '8.72');
+values ('Lamprotornis nitens', '440.21');
 insert into tb_worker (name, daily_income)
-values (743, '84.96');
+values ('Eutamias minimus', '177.68');
 insert into tb_worker (name, daily_income)
-values (744, '27.06');
+values ('Ctenophorus ornatus', '739.34');
 insert into tb_worker (name, daily_income)
-values (745, '43.20');
+values ('Caiman crocodilus', '422.22');
 insert into tb_worker (name, daily_income)
-values (746, '11.50');
+values ('Scolopax minor', '785.55');
 insert into tb_worker (name, daily_income)
-values (747, '32.12');
+values ('Panthera pardus', '697.41');
 insert into tb_worker (name, daily_income)
-values (748, '19.34');
+values ('Sula nebouxii', '250.06');
 insert into tb_worker (name, daily_income)
-values (749, '7.91');
+values ('Corvus albus', '707.37');
 insert into tb_worker (name, daily_income)
-values (750, '9.06');
+values ('Cervus duvauceli', '67.30');
 insert into tb_worker (name, daily_income)
-values (751, '43.86');
+values ('Felis concolor', '129.96');
 insert into tb_worker (name, daily_income)
-values (752, '95.87');
+values ('Morelia spilotes variegata', '715.37');
 insert into tb_worker (name, daily_income)
-values (753, '8.46');
+values ('Hippotragus niger', '83.66');
 insert into tb_worker (name, daily_income)
-values (754, '72.31');
+values ('Axis axis', '278.30');
 insert into tb_worker (name, daily_income)
-values (755, '46.81');
+values ('Genetta genetta', '775.12');
 insert into tb_worker (name, daily_income)
-values (756, '13.03');
+values ('Genetta genetta', '582.29');
 insert into tb_worker (name, daily_income)
-values (757, '78.37');
+values ('Phaethon aethereus', '175.57');
 insert into tb_worker (name, daily_income)
-values (758, '64.83');
+values ('Eurocephalus anguitimens', '295.94');
 insert into tb_worker (name, daily_income)
-values (759, '42.13');
+values ('Cyrtodactylus louisiadensis', '107.92');
 insert into tb_worker (name, daily_income)
-values (760, '6.42');
+values ('Haematopus ater', '252.66');
 insert into tb_worker (name, daily_income)
-values (761, '79.89');
+values ('Motacilla aguimp', '131.49');
 insert into tb_worker (name, daily_income)
-values (762, '77.60');
+values ('Phalaropus lobatus', '83.76');
 insert into tb_worker (name, daily_income)
-values (763, '94.76');
+values ('Marmota flaviventris', '370.00');
 insert into tb_worker (name, daily_income)
-values (764, '91.46');
+values ('Chlamydosaurus kingii', '597.94');
 insert into tb_worker (name, daily_income)
-values (765, '24.62');
+values ('Phalaropus fulicarius', '300.48');
 insert into tb_worker (name, daily_income)
-values (766, '74.64');
+values ('Leipoa ocellata', '586.96');
 insert into tb_worker (name, daily_income)
-values (767, '17.50');
+values ('Dusicyon thous', '488.58');
 insert into tb_worker (name, daily_income)
-values (768, '11.20');
+values ('Hyaena hyaena', '636.51');
 insert into tb_worker (name, daily_income)
-values (769, '54.15');
+values ('Colobus guerza', '111.58');
 insert into tb_worker (name, daily_income)
-values (770, '39.49');
+values ('Felis concolor', '482.98');
 insert into tb_worker (name, daily_income)
-values (771, '89.93');
+values ('Larus novaehollandiae', '606.30');
 insert into tb_worker (name, daily_income)
-values (772, '55.86');
+values ('Trichoglossus haematodus moluccanus', '283.02');
 insert into tb_worker (name, daily_income)
-values (773, '74.90');
+values ('Canis lupus lycaon', '818.92');
 insert into tb_worker (name, daily_income)
-values (774, '10.22');
+values ('Cordylus giganteus', '328.90');
 insert into tb_worker (name, daily_income)
-values (775, '94.14');
+values ('Ovis dalli stonei', '548.20');
 insert into tb_worker (name, daily_income)
-values (776, '68.84');
+values ('Cervus canadensis', '790.93');
 insert into tb_worker (name, daily_income)
-values (777, '2.91');
+values ('Sarkidornis melanotos', '460.35');
 insert into tb_worker (name, daily_income)
-values (778, '26.41');
+values ('unavailable', '411.86');
 insert into tb_worker (name, daily_income)
-values (779, '66.15');
+values ('Ciconia ciconia', '130.98');
 insert into tb_worker (name, daily_income)
-values (780, '97.19');
+values ('Crotalus adamanteus', '346.49');
 insert into tb_worker (name, daily_income)
-values (781, '14.32');
+values ('Macropus eugenii', '764.60');
 insert into tb_worker (name, daily_income)
-values (782, '72.64');
+values ('Myiarchus tuberculifer', '19.06');
 insert into tb_worker (name, daily_income)
-values (783, '1.62');
+values ('Acrantophis madagascariensis', '723.66');
 insert into tb_worker (name, daily_income)
-values (784, '82.87');
+values ('Cracticus nigroagularis', '215.45');
 insert into tb_worker (name, daily_income)
-values (785, '51.55');
+values ('Tringa glareola', '917.44');
 insert into tb_worker (name, daily_income)
-values (786, '25.53');
+values ('Microcebus murinus', '387.57');
 insert into tb_worker (name, daily_income)
-values (787, '81.25');
+values ('Ara ararauna', '885.55');
 insert into tb_worker (name, daily_income)
-values (788, '52.47');
+values ('Drymarchon corias couperi', '497.40');
 insert into tb_worker (name, daily_income)
-values (789, '79.44');
+values ('Zosterops pallidus', '277.02');
 insert into tb_worker (name, daily_income)
-values (790, '34.61');
+values ('Platalea leucordia', '211.38');
 insert into tb_worker (name, daily_income)
-values (791, '89.55');
+values ('Papio cynocephalus', '381.81');
 insert into tb_worker (name, daily_income)
-values (792, '75.51');
+values ('Bos taurus', '58.13');
 insert into tb_worker (name, daily_income)
-values (793, '18.39');
+values ('Marmota monax', '342.43');
 insert into tb_worker (name, daily_income)
-values (794, '20.55');
+values ('Pseudocheirus peregrinus', '425.19');
 insert into tb_worker (name, daily_income)
-values (795, '84.11');
+values ('Centrocercus urophasianus', '939.08');
 insert into tb_worker (name, daily_income)
-values (796, '38.44');
+values ('Acrobates pygmaeus', '278.53');
 insert into tb_worker (name, daily_income)
-values (797, '1.59');
+values ('Ploceus rubiginosus', '932.32');
 insert into tb_worker (name, daily_income)
-values (798, '70.20');
+values ('Plocepasser mahali', '79.61');
 insert into tb_worker (name, daily_income)
-values (799, '77.84');
+values ('Spermophilus richardsonii', '5.28');
 insert into tb_worker (name, daily_income)
-values (800, '31.85');
+values ('Mellivora capensis', '490.20');
 insert into tb_worker (name, daily_income)
-values (801, '79.98');
+values ('Geochelone elegans', '860.40');
 insert into tb_worker (name, daily_income)
-values (802, '47.26');
+values ('Acanthaster planci', '162.26');
 insert into tb_worker (name, daily_income)
-values (803, '19.53');
+values ('Coluber constrictor', '447.93');
 insert into tb_worker (name, daily_income)
-values (804, '61.34');
+values ('Anas bahamensis', '333.11');
 insert into tb_worker (name, daily_income)
-values (805, '58.86');
+values ('Ursus arctos', '685.03');
 insert into tb_worker (name, daily_income)
-values (806, '50.64');
+values ('Pterocles gutturalis', '704.37');
 insert into tb_worker (name, daily_income)
-values (807, '70.90');
+values ('Gekko gecko', '803.82');
 insert into tb_worker (name, daily_income)
-values (808, '25.94');
+values ('Corythornis cristata', '368.91');
 insert into tb_worker (name, daily_income)
-values (809, '61.92');
+values ('unavailable', '93.02');
 insert into tb_worker (name, daily_income)
-values (810, '61.27');
+values ('Parus atricapillus', '732.72');
 insert into tb_worker (name, daily_income)
-values (811, '89.85');
+values ('Haliaetus leucogaster', '881.88');
 insert into tb_worker (name, daily_income)
-values (812, '68.04');
+values ('Agouti paca', '960.28');
 insert into tb_worker (name, daily_income)
-values (813, '11.20');
+values ('Chlamydosaurus kingii', '70.00');
 insert into tb_worker (name, daily_income)
-values (814, '1.29');
+values ('Choloepus hoffmani', '545.93');
 insert into tb_worker (name, daily_income)
-values (815, '32.82');
+values ('Mycteria ibis', '672.43');
 insert into tb_worker (name, daily_income)
-values (816, '47.65');
+values ('Macropus fuliginosus', '311.19');
 insert into tb_worker (name, daily_income)
-values (817, '31.02');
+values ('Eremophila alpestris', '25.00');
 insert into tb_worker (name, daily_income)
-values (818, '54.41');
+values ('Carphophis sp.', '930.46');
 insert into tb_worker (name, daily_income)
-values (819, '2.27');
+values ('Trachyphonus vaillantii', '227.13');
 insert into tb_worker (name, daily_income)
-values (820, '7.59');
+values ('Macaca radiata', '870.54');
 insert into tb_worker (name, daily_income)
-values (821, '50.49');
+values ('Oreamnos americanus', '442.24');
 insert into tb_worker (name, daily_income)
-values (822, '82.65');
+values ('unavailable', '17.90');
 insert into tb_worker (name, daily_income)
-values (823, '37.45');
+values ('Dasyurus viverrinus', '463.16');
 insert into tb_worker (name, daily_income)
-values (824, '12.45');
+values ('Mirounga angustirostris', '875.84');
 insert into tb_worker (name, daily_income)
-values (825, '75.59');
+values ('Bugeranus caruncalatus', '60.79');
 insert into tb_worker (name, daily_income)
-values (826, '79.11');
+values ('Panthera leo persica', '66.77');
 insert into tb_worker (name, daily_income)
-values (827, '80.30');
+values ('Hystrix cristata', '127.11');
 insert into tb_worker (name, daily_income)
-values (828, '65.86');
+values ('Bettongia penicillata', '96.24');
 insert into tb_worker (name, daily_income)
-values (829, '71.87');
+values ('Helogale undulata', '537.40');
 insert into tb_worker (name, daily_income)
-values (830, '52.29');
+values ('Ateles paniscus', '95.36');
 insert into tb_worker (name, daily_income)
-values (831, '80.44');
+values ('Bucephala clangula', '810.78');
 insert into tb_worker (name, daily_income)
-values (832, '56.65');
+values ('Sula nebouxii', '16.15');
 insert into tb_worker (name, daily_income)
-values (833, '48.86');
+values ('Haliaetus leucogaster', '43.00');
 insert into tb_worker (name, daily_income)
-values (834, '42.99');
+values ('Trichosurus vulpecula', '814.00');
 insert into tb_worker (name, daily_income)
-values (835, '73.23');
+values ('Tursiops truncatus', '654.97');
 insert into tb_worker (name, daily_income)
-values (836, '84.72');
+values ('Kobus defassa', '671.76');
 insert into tb_worker (name, daily_income)
-values (837, '68.47');
+values ('Uraeginthus granatina', '914.46');
 insert into tb_worker (name, daily_income)
-values (838, '6.44');
+values ('Cervus elaphus', '216.75');
 insert into tb_worker (name, daily_income)
-values (839, '41.77');
+values ('Balearica pavonina', '777.18');
 insert into tb_worker (name, daily_income)
-values (840, '54.74');
+values ('Cathartes aura', '712.31');
 insert into tb_worker (name, daily_income)
-values (841, '38.92');
+values ('Pavo cristatus', '298.86');
 insert into tb_worker (name, daily_income)
-values (842, '12.18');
+values ('Platalea leucordia', '609.52');
 insert into tb_worker (name, daily_income)
-values (843, '79.93');
+values ('Canis dingo', '104.72');
 insert into tb_worker (name, daily_income)
-values (844, '27.93');
+values ('Lophoaetus occipitalis', '97.85');
 insert into tb_worker (name, daily_income)
-values (845, '60.59');
+values ('Speothos vanaticus', '4.91');
 insert into tb_worker (name, daily_income)
-values (846, '9.73');
+values ('Fulica cristata', '445.39');
 insert into tb_worker (name, daily_income)
-values (847, '57.64');
+values ('Varanus sp.', '180.59');
 insert into tb_worker (name, daily_income)
-values (848, '42.95');
+values ('Alopochen aegyptiacus', '963.56');
 insert into tb_worker (name, daily_income)
-values (849, '6.62');
+values ('Anser caerulescens', '165.21');
 insert into tb_worker (name, daily_income)
-values (850, '59.29');
+values ('Spermophilus tridecemlineatus', '106.82');
 insert into tb_worker (name, daily_income)
-values (851, '79.14');
+values ('Macropus agilis', '357.26');
 insert into tb_worker (name, daily_income)
-values (852, '4.30');
+values ('Uraeginthus granatina', '554.98');
 insert into tb_worker (name, daily_income)
-values (853, '7.35');
+values ('Crocuta crocuta', '914.56');
 insert into tb_worker (name, daily_income)
-values (854, '73.85');
+values ('Panthera pardus', '187.23');
 insert into tb_worker (name, daily_income)
-values (855, '94.25');
+values ('Alectura lathami', '941.62');
 insert into tb_worker (name, daily_income)
-values (856, '67.26');
+values ('Felis wiedi or Leopardus weidi', '545.32');
 insert into tb_worker (name, daily_income)
-values (857, '35.30');
+values ('Alopex lagopus', '500.07');
 insert into tb_worker (name, daily_income)
-values (858, '57.27');
+values ('Sus scrofa', '232.51');
 insert into tb_worker (name, daily_income)
-values (859, '75.29');
+values ('Oncorhynchus nerka', '905.28');
 insert into tb_worker (name, daily_income)
-values (860, '61.77');
+values ('Myrmecophaga tridactyla', '962.51');
 insert into tb_worker (name, daily_income)
-values (861, '4.43');
+values ('Streptopelia senegalensis', '634.88');
 insert into tb_worker (name, daily_income)
-values (862, '43.95');
+values ('Didelphis virginiana', '674.20');
 insert into tb_worker (name, daily_income)
-values (863, '98.07');
+values ('Larus fuliginosus', '486.84');
 insert into tb_worker (name, daily_income)
-values (864, '7.18');
+values ('Hippopotamus amphibius', '476.55');
 insert into tb_worker (name, daily_income)
-values (865, '70.48');
+values ('Panthera leo', '158.99');
 insert into tb_worker (name, daily_income)
-values (866, '59.63');
+values ('unavailable', '6.60');
 insert into tb_worker (name, daily_income)
-values (867, '49.99');
+values ('Bucephala clangula', '62.55');
 insert into tb_worker (name, daily_income)
-values (868, '63.28');
+values ('Paraxerus cepapi', '948.86');
 insert into tb_worker (name, daily_income)
-values (869, '14.26');
+values ('Toxostoma curvirostre', '733.10');
 insert into tb_worker (name, daily_income)
-values (870, '39.96');
+values ('Dendrocitta vagabunda', '131.18');
 insert into tb_worker (name, daily_income)
-values (871, '82.46');
+values ('Ardea cinerea', '519.80');
 insert into tb_worker (name, daily_income)
-values (872, '76.26');
+values ('unavailable', '786.55');
 insert into tb_worker (name, daily_income)
-values (873, '31.29');
+values ('Tenrec ecaudatus', '304.30');
 insert into tb_worker (name, daily_income)
-values (874, '97.08');
+values ('Ara chloroptera', '633.36');
 insert into tb_worker (name, daily_income)
-values (875, '60.95');
+values ('Procyon cancrivorus', '348.22');
 insert into tb_worker (name, daily_income)
-values (876, '1.05');
+values ('Gyps bengalensis', '396.49');
 insert into tb_worker (name, daily_income)
-values (877, '41.09');
+values ('Acridotheres tristis', '908.63');
 insert into tb_worker (name, daily_income)
-values (878, '96.31');
+values ('unavailable', '195.20');
 insert into tb_worker (name, daily_income)
-values (879, '33.70');
+values ('Acrobates pygmaeus', '484.64');
 insert into tb_worker (name, daily_income)
-values (880, '80.15');
+values ('Loris tardigratus', '813.07');
 insert into tb_worker (name, daily_income)
-values (881, '33.58');
+values ('Cyrtodactylus louisiadensis', '224.99');
 insert into tb_worker (name, daily_income)
-values (882, '37.74');
+values ('Myrmecophaga tridactyla', '2.47');
 insert into tb_worker (name, daily_income)
-values (883, '29.56');
+values ('Arctogalidia trivirgata', '770.50');
 insert into tb_worker (name, daily_income)
-values (884, '6.60');
+values ('Megaderma spasma', '28.10');
 insert into tb_worker (name, daily_income)
-values (885, '93.64');
+values ('Dicrostonyx groenlandicus', '544.08');
 insert into tb_worker (name, daily_income)
-values (886, '2.70');
+values ('Pseudoleistes virescens', '525.58');
 insert into tb_worker (name, daily_income)
-values (887, '73.88');
+values ('Lycosa godeffroyi', '107.51');
 insert into tb_worker (name, daily_income)
-values (888, '18.93');
+values ('Mungos mungo', '670.79');
 insert into tb_worker (name, daily_income)
-values (889, '9.86');
+values ('Ursus americanus', '657.59');
 insert into tb_worker (name, daily_income)
-values (890, '24.87');
+values ('Plocepasser mahali', '805.82');
 insert into tb_worker (name, daily_income)
-values (891, '75.21');
+values ('Geochelone elephantopus', '94.34');
 insert into tb_worker (name, daily_income)
-values (892, '99.26');
+values ('Zenaida asiatica', '215.15');
 insert into tb_worker (name, daily_income)
-values (893, '66.29');
+values ('Spermophilus richardsonii', '906.41');
 insert into tb_worker (name, daily_income)
-values (894, '54.76');
+values ('Ninox superciliaris', '404.02');
 insert into tb_worker (name, daily_income)
-values (895, '28.99');
+values ('Toxostoma curvirostre', '648.38');
 insert into tb_worker (name, daily_income)
-values (896, '89.51');
+values ('unavailable', '72.68');
 insert into tb_worker (name, daily_income)
-values (897, '22.07');
+values ('Phalacrocorax niger', '284.58');
 insert into tb_worker (name, daily_income)
-values (898, '83.50');
+values ('Cebus albifrons', '653.15');
 insert into tb_worker (name, daily_income)
-values (899, '72.43');
+values ('Alligator mississippiensis', '982.92');
 insert into tb_worker (name, daily_income)
-values (900, '28.11');
+values ('Axis axis', '25.25');
 insert into tb_worker (name, daily_income)
-values (901, '17.68');
+values ('Anas platyrhynchos', '346.51');
 insert into tb_worker (name, daily_income)
-values (902, '73.08');
+values ('Sceloporus magister', '423.80');
 insert into tb_worker (name, daily_income)
-values (903, '96.65');
+values ('Castor fiber', '285.59');
 insert into tb_worker (name, daily_income)
-values (904, '90.96');
+values ('Ursus arctos', '472.95');
 insert into tb_worker (name, daily_income)
-values (905, '61.46');
+values ('Choloepus hoffmani', '319.82');
 insert into tb_worker (name, daily_income)
-values (906, '9.83');
+values ('Manouria emys', '446.29');
 insert into tb_worker (name, daily_income)
-values (907, '13.46');
+values ('Didelphis virginiana', '547.45');
 insert into tb_worker (name, daily_income)
-values (908, '25.03');
+values ('Anas punctata', '649.62');
 insert into tb_worker (name, daily_income)
-values (909, '76.28');
+values ('Ramphastos tucanus', '72.91');
 insert into tb_worker (name, daily_income)
-values (910, '78.81');
+values ('Tamiasciurus hudsonicus', '154.72');
 insert into tb_worker (name, daily_income)
-values (911, '10.91');
+values ('Nasua narica', '189.11');
 insert into tb_worker (name, daily_income)
-values (912, '80.52');
+values ('Felis rufus', '526.37');
 insert into tb_worker (name, daily_income)
-values (913, '34.22');
+values ('Trachyphonus vaillantii', '454.65');
 insert into tb_worker (name, daily_income)
-values (914, '63.19');
+values ('Pitangus sulphuratus', '985.27');
 insert into tb_worker (name, daily_income)
-values (915, '56.52');
+values ('Trachyphonus vaillantii', '679.62');
 insert into tb_worker (name, daily_income)
-values (916, '72.85');
+values ('Vulpes chama', '197.42');
 insert into tb_worker (name, daily_income)
-values (917, '4.96');
+values ('Hippotragus niger', '797.95');
 insert into tb_worker (name, daily_income)
-values (918, '60.22');
+values ('Oxybelis fulgidus', '782.52');
 insert into tb_worker (name, daily_income)
-values (919, '89.51');
+values ('Cervus elaphus', '274.83');
 insert into tb_worker (name, daily_income)
-values (920, '13.00');
+values ('Macropus eugenii', '522.11');
 insert into tb_worker (name, daily_income)
-values (921, '64.30');
+values ('Ammospermophilus nelsoni', '709.76');
 insert into tb_worker (name, daily_income)
-values (922, '36.14');
+values ('Vulpes vulpes', '336.56');
 insert into tb_worker (name, daily_income)
-values (923, '0.96');
+values ('Macropus rufogriseus', '40.82');
 insert into tb_worker (name, daily_income)
-values (924, '44.67');
+values ('Dasypus septemcincus', '539.95');
 insert into tb_worker (name, daily_income)
-values (925, '73.44');
+values ('Trichoglossus chlorolepidotus', '643.40');
 insert into tb_worker (name, daily_income)
-values (926, '31.31');
+values ('Bucephala clangula', '408.27');
 insert into tb_worker (name, daily_income)
-values (927, '9.87');
+values ('Felis concolor', '407.00');
 insert into tb_worker (name, daily_income)
-values (928, '3.14');
+values ('Macaca mulatta', '873.49');
 insert into tb_worker (name, daily_income)
-values (929, '76.57');
+values ('Centrocercus urophasianus', '649.05');
 insert into tb_worker (name, daily_income)
-values (930, '74.84');
+values ('Ramphastos tucanus', '356.37');
 insert into tb_worker (name, daily_income)
-values (931, '73.61');
+values ('Coluber constrictor foxii', '910.19');
 insert into tb_worker (name, daily_income)
-values (932, '73.86');
+values ('Macropus robustus', '22.45');
 insert into tb_worker (name, daily_income)
-values (933, '71.08');
+values ('unavailable', '973.64');
 insert into tb_worker (name, daily_income)
-values (934, '98.81');
+values ('Tursiops truncatus', '119.75');
 insert into tb_worker (name, daily_income)
-values (935, '81.79');
+values ('Falco mexicanus', '246.20');
 insert into tb_worker (name, daily_income)
-values (936, '3.65');
+values ('Graspus graspus', '33.23');
 insert into tb_worker (name, daily_income)
-values (937, '87.32');
+values ('Naja haje', '193.33');
 insert into tb_worker (name, daily_income)
-values (938, '75.86');
+values ('Colobus guerza', '445.63');
 insert into tb_worker (name, daily_income)
-values (939, '19.54');
+values ('Falco peregrinus', '409.13');
 insert into tb_worker (name, daily_income)
-values (940, '4.65');
+values ('Grus rubicundus', '442.11');
 insert into tb_worker (name, daily_income)
-values (941, '49.50');
+values ('Speothos vanaticus', '770.48');
 insert into tb_worker (name, daily_income)
-values (942, '95.39');
+values ('Castor canadensis', '702.30');
 insert into tb_worker (name, daily_income)
-values (943, '95.82');
+values ('Felis chaus', '855.47');
 insert into tb_worker (name, daily_income)
-values (944, '60.26');
+values ('Ardea golieth', '6.19');
 insert into tb_worker (name, daily_income)
-values (945, '33.09');
+values ('Zonotrichia capensis', '580.09');
 insert into tb_worker (name, daily_income)
-values (946, '52.14');
+values ('Tragelaphus strepsiceros', '282.30');
 insert into tb_worker (name, daily_income)
-values (947, '82.79');
+values ('Leptoptilos crumeniferus', '593.20');
 insert into tb_worker (name, daily_income)
-values (948, '39.69');
+values ('Zenaida asiatica', '632.76');
 insert into tb_worker (name, daily_income)
-values (949, '99.53');
+values ('Pteropus rufus', '616.45');
 insert into tb_worker (name, daily_income)
-values (950, '93.78');
+values ('Giraffe camelopardalis', '633.73');
 insert into tb_worker (name, daily_income)
-values (951, '36.53');
+values ('Felis caracal', '499.27');
 insert into tb_worker (name, daily_income)
-values (952, '97.81');
+values ('Papio cynocephalus', '551.94');
 insert into tb_worker (name, daily_income)
-values (953, '47.28');
+values ('Ammospermophilus nelsoni', '422.51');
 insert into tb_worker (name, daily_income)
-values (954, '19.82');
+values ('Macropus agilis', '734.49');
 insert into tb_worker (name, daily_income)
-values (955, '1.16');
+values ('Ramphastos tucanus', '619.53');
 insert into tb_worker (name, daily_income)
-values (956, '49.95');
+values ('Ursus americanus', '96.75');
 insert into tb_worker (name, daily_income)
-values (957, '51.45');
+values ('Suricata suricatta', '452.96');
 insert into tb_worker (name, daily_income)
-values (958, '74.46');
+values ('Erinaceus frontalis', '884.38');
 insert into tb_worker (name, daily_income)
-values (959, '40.83');
+values ('Sula dactylatra', '164.88');
 insert into tb_worker (name, daily_income)
-values (960, '82.85');
+values ('Hydrochoerus hydrochaeris', '888.74');
 insert into tb_worker (name, daily_income)
-values (961, '33.61');
+values ('Iguana iguana', '282.58');
 insert into tb_worker (name, daily_income)
-values (962, '61.47');
+values ('Tamandua tetradactyla', '562.43');
 insert into tb_worker (name, daily_income)
-values (963, '23.24');
+values ('Cacatua tenuirostris', '180.07');
 insert into tb_worker (name, daily_income)
-values (964, '75.73');
+values ('Ramphastos tucanus', '957.46');
 insert into tb_worker (name, daily_income)
-values (965, '47.83');
+values ('Phalaropus lobatus', '12.91');
 insert into tb_worker (name, daily_income)
-values (966, '22.75');
+values ('Vanessa indica', '121.01');
 insert into tb_worker (name, daily_income)
-values (967, '47.39');
+values ('Plectopterus gambensis', '742.82');
 insert into tb_worker (name, daily_income)
-values (968, '8.19');
+values ('Pteronura brasiliensis', '157.65');
 insert into tb_worker (name, daily_income)
-values (969, '91.21');
+values ('Macaca mulatta', '484.74');
 insert into tb_worker (name, daily_income)
-values (970, '0.32');
+values ('unavailable', '830.02');
 insert into tb_worker (name, daily_income)
-values (971, '88.72');
+values ('Nesomimus trifasciatus', '465.39');
 insert into tb_worker (name, daily_income)
-values (972, '35.76');
+values ('Lutra canadensis', '408.06');
 insert into tb_worker (name, daily_income)
-values (973, '82.86');
+values ('Myiarchus tuberculifer', '952.79');
 insert into tb_worker (name, daily_income)
-values (974, '17.86');
+values ('Gymnorhina tibicen', '384.10');
 insert into tb_worker (name, daily_income)
-values (975, '30.99');
+values ('Semnopithecus entellus', '791.36');
 insert into tb_worker (name, daily_income)
-values (976, '79.78');
+values ('Trichechus inunguis', '412.71');
 insert into tb_worker (name, daily_income)
-values (977, '94.49');
+values ('Hyaena brunnea', '247.82');
 insert into tb_worker (name, daily_income)
-values (978, '56.89');
+values ('Capra ibex', '903.45');
 insert into tb_worker (name, daily_income)
-values (979, '90.80');
+values ('Buteo jamaicensis', '574.37');
 insert into tb_worker (name, daily_income)
-values (980, '78.03');
+values ('Equus burchelli', '607.65');
 insert into tb_worker (name, daily_income)
-values (981, '65.42');
+values ('Ceratotherium simum', '249.37');
 insert into tb_worker (name, daily_income)
-values (982, '18.12');
+values ('Conolophus subcristatus', '23.17');
 insert into tb_worker (name, daily_income)
-values (983, '74.81');
+values ('Iguana iguana', '610.09');
 insert into tb_worker (name, daily_income)
-values (984, '73.42');
+values ('Eremophila alpestris', '848.32');
 insert into tb_worker (name, daily_income)
-values (985, '14.21');
+values ('Sula dactylatra', '752.75');
 insert into tb_worker (name, daily_income)
-values (986, '86.85');
+values ('Cereopsis novaehollandiae', '108.83');
 insert into tb_worker (name, daily_income)
-values (987, '53.69');
+values ('Morelia spilotes variegata', '651.45');
 insert into tb_worker (name, daily_income)
-values (988, '56.07');
+values ('Herpestes javanicus', '594.68');
 insert into tb_worker (name, daily_income)
-values (989, '68.38');
+values ('Dicrostonyx groenlandicus', '183.86');
 insert into tb_worker (name, daily_income)
-values (990, '67.96');
+values ('Canis lupus', '806.09');
 insert into tb_worker (name, daily_income)
-values (991, '90.36');
+values ('Phoca vitulina', '848.68');
 insert into tb_worker (name, daily_income)
-values (992, '39.45');
+values ('Nyctea scandiaca', '549.32');
 insert into tb_worker (name, daily_income)
-values (993, '26.63');
+values ('Loxodonta africana', '78.19');
 insert into tb_worker (name, daily_income)
-values (994, '7.31');
+values ('Pan troglodytes', '772.67');
 insert into tb_worker (name, daily_income)
-values (995, '5.92');
+values ('Myrmecophaga tridactyla', '829.34');
 insert into tb_worker (name, daily_income)
-values (996, '14.45');
+values ('Anastomus oscitans', '329.86');
 insert into tb_worker (name, daily_income)
-values (997, '20.63');
+values ('Ratufa indica', '407.83');
 insert into tb_worker (name, daily_income)
-values (998, '80.84');
+values ('Antechinus flavipes', '704.59');
 insert into tb_worker (name, daily_income)
-values (999, '20.41');
+values ('Priodontes maximus', '909.65');
 insert into tb_worker (name, daily_income)
-values (1000, '13.91');
+values ('Tamiasciurus hudsonicus', '55.57');
