@@ -1,9 +1,14 @@
 package software.robsoncassiano.learn.hrpayroll.entities;
 
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.EqualsAndHashCode;
 
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
 @EqualsAndHashCode
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Payment {
 
     private String name;
@@ -20,7 +25,10 @@ public class Payment {
     }
 
     public Double getTotal() {
-        return days * dailyIncome;
+        final double total = this.days * this.dailyIncome;
+        return BigDecimal.valueOf(total)
+                .setScale(3, RoundingMode.HALF_UP)
+                .doubleValue();
     }
 
     public String getName() {
